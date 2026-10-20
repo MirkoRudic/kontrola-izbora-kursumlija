@@ -1,0 +1,8 @@
+name = "kontrola-izbora-kursumlija"
+pages_build_output_dir = "./public"
+compatibility_date = "2025-09-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "kontrola-kursumlija-posete"
+database_id = "0a796d6a-532b-4e44-89fa-27c9a2e934b4"

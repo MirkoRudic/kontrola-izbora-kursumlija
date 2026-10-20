@@ -1,0 +1,5558 @@
+{
+ "bm": {
+  "bm01": {
+   "stalni": [
+    {
+     "role": "predsednik",
+     "name": "Uroš Eraković",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    },
+    {
+     "role": "zamenik predsednika",
+     "name": "Ivan Milojević",
+     "by": "Poslanička grupa Poslanici uz studente: za kontrolu izbora",
+     "key": "STUD"
+    },
+    {
+     "role": "1. član",
+     "name": "Nina Vasić",
+     "by": "Poslanička grupa Socijaldemokratska partija Srbije",
+     "key": "SDPS"
+    },
+    {
+     "role": "zamenik 1. člana",
+     "name": "Ivana Savić",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    },
+    {
+     "role": "2. član",
+     "name": "Zoran Mitrović",
+     "by": "Načelnik Opštinske uprave",
+     "key": "ADMIN"
+    },
+    {
+     "role": "zamenik 2. člana",
+     "name": "Bratislav Deljanin",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    }
+   ],
+   "prosireni": [
+    {
+     "no": 1,
+     "member": "Teodora Savić",
+     "deputy": "Milovanka Todorović",
+     "list": "Aleksandar Vučić – Ujedinjena Srbija",
+     "key": "SNS"
+    },
+    {
+     "no": 2,
+     "member": "Petar Simonović",
+     "deputy": "Milena Milićević",
+     "list": "Ivica Dačić – Faktor stabilnosti!",
+     "key": "SPS"
+    },
+    {
+     "no": 3,
+     "member": "Slobodan Todosić",
+     "deputy": "Dragan Milojević",
+     "list": "Studentska lista – Studenti pobeđuju",
+     "key": "STUD"
+    },
+    {
+     "no": 4,
+     "member": "Jelena Đinđić",
+     "deputy": "Gordana Dimitrijević",
+     "list": "Rasim Ljajić – Ljudski (SDP – CDP)",
+     "key": "LJAJIC"
+    },
+    {
+     "no": 5,
+     "member": "Ljiljana Vidić Jovanović",
+     "deputy": "Vukašin Jovanović",
+     "list": "Savez vojvođanskih Mađara – dr Balint Pastor",
+     "key": "SVM"
+    },
+    {
+     "no": 6,
+     "member": "Aleksandra Minić",
+     "deputy": "Stefan Kostić",
+     "list": "Ruska stranka – Srbija u BRIKS-u – Slobodan Nikolić",
+     "key": "RUSKA"
+    },
+    {
+     "no": 7,
+     "member": "Ivana Ristić",
+     "deputy": "Biljana Pavlović",
+     "list": "Autentična desnica – dr Miloš Jovanović",
+     "key": "AUTDES"
+    },
+    {
+     "no": 8,
+     "member": "Nevena Ristić",
+     "deputy": "Ružica Veselinović",
+     "list": "Evropska Srbija – Marinika Tepić – Zdravko Ponoš",
+     "key": "EVROSRB"
+    },
+    {
+     "no": 9,
+     "member": "Violeta Krstović",
+     "deputy": "Radosav Krstović",
+     "list": "Bogoljub Karić – Pokret Snaga Srbije – BK",
+     "key": "KARIC"
+    },
+    {
+     "no": 10,
+     "member": "Radica Todorović",
+     "deputy": "Miljojko Vukašinović",
+     "list": "Liberalno zelena stranka – Za slobodnu i čistiju Srbiju",
+     "key": "LZS"
+    },
+    {
+     "no": 11,
+     "member": "Dejan Dimitrijević",
+     "deputy": "Radovanka Todorović",
+     "list": "Ćale ovo je za tebe – Petar Đurić – Premijer Srbije",
+     "key": "DJURIC"
+    },
+    {
+     "no": 12,
+     "member": "Jasna Ilić",
+     "deputy": "Marko Lukić",
+     "list": "Vladimir Gajić – Alternativa za Srbiju",
+     "key": "GAJIC"
+    }
+   ]
+  },
+  "bm02": {
+   "stalni": [
+    {
+     "role": "predsednik",
+     "name": "Aleksandar Ilić",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    },
+    {
+     "role": "zamenik predsednika",
+     "name": "Marijana Milenković",
+     "by": "Poslanička grupa Socijaldemokratska partija Srbije",
+     "key": "SDPS"
+    },
+    {
+     "role": "1. član",
+     "name": "Stevan Gvozdenović",
+     "by": "Poslanička grupa Poslanici uz studente: za kontrolu izbora",
+     "key": "STUD"
+    },
+    {
+     "role": "zamenik 1. člana",
+     "name": "Dejana Milunović",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    },
+    {
+     "role": "2. član",
+     "name": "Milentije Kostić",
+     "by": "Poslanička grupa Savez vojvođanskih Mađara",
+     "key": "SVM"
+    },
+    {
+     "role": "zamenik 2. člana",
+     "name": "Dragana Deljanin",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    }
+   ],
+   "prosireni": [
+    {
+     "no": 1,
+     "member": "Snežana Radovanović",
+     "deputy": "Ilinka Nedeljković",
+     "list": "Aleksandar Vučić – Ujedinjena Srbija",
+     "key": "SNS"
+    },
+    {
+     "no": 2,
+     "member": "Radomir Milunović",
+     "deputy": "Mirjana Milenković",
+     "list": "Ivica Dačić – Faktor stabilnosti!",
+     "key": "SPS"
+    },
+    {
+     "no": 3,
+     "member": "Blagoje Virijević",
+     "deputy": "Miloš Ristić",
+     "list": "Studentska lista – Studenti pobeđuju",
+     "key": "STUD"
+    },
+    {
+     "no": 4,
+     "member": "Vuk Milošević",
+     "deputy": "Verica Burmaz",
+     "list": "Rasim Ljajić – Ljudski (SDP – CDP)",
+     "key": "LJAJIC"
+    },
+    {
+     "no": 5,
+     "member": "Branka Todorović",
+     "deputy": "Tijana Milojević",
+     "list": "Savez vojvođanskih Mađara – dr Balint Pastor",
+     "key": "SVM"
+    },
+    {
+     "no": 6,
+     "member": "Zoran Vukašinović",
+     "deputy": "Nataša Kostić",
+     "list": "Ruska stranka – Srbija u BRIKS-u – Slobodan Nikolić",
+     "key": "RUSKA"
+    },
+    {
+     "no": 7,
+     "member": "Lazar Ristić",
+     "deputy": null,
+     "list": "Autentična desnica – dr Miloš Jovanović",
+     "key": "AUTDES"
+    },
+    {
+     "no": 8,
+     "member": "Ivan Arsić",
+     "deputy": "Luka Milenković",
+     "list": "Evropska Srbija – Marinika Tepić – Zdravko Ponoš",
+     "key": "EVROSRB"
+    },
+    {
+     "no": 9,
+     "member": "Dejan Milutinović",
+     "deputy": "Aleksandra Stevanović",
+     "list": "Bogoljub Karić – Pokret Snaga Srbije – BK",
+     "key": "KARIC"
+    },
+    {
+     "no": 10,
+     "member": "Daliborka Simonović",
+     "deputy": "Katarina Deljanin",
+     "list": "Liberalno zelena stranka – Za slobodnu i čistiju Srbiju",
+     "key": "LZS"
+    },
+    {
+     "no": 11,
+     "member": "Miroslav Simić",
+     "deputy": "Balša Milošević",
+     "list": "Ćale ovo je za tebe – Petar Đurić – Premijer Srbije",
+     "key": "DJURIC"
+    },
+    {
+     "no": 12,
+     "member": "Hana Milijanović",
+     "deputy": "Živadinka Perović",
+     "list": "Vladimir Gajić – Alternativa za Srbiju",
+     "key": "GAJIC"
+    }
+   ]
+  },
+  "bm03": {
+   "stalni": [
+    {
+     "role": "predsednik",
+     "name": "Milica Petković",
+     "by": "Poslanička grupa IVICA DAČIĆ – Socijalistička partija Srbije (SPS)",
+     "key": "SPS"
+    },
+    {
+     "role": "zamenik predsednika",
+     "name": "Filip Arsenijević",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    },
+    {
+     "role": "1. član",
+     "name": "Mileta Mihajlović",
+     "by": "Načelnik Opštinske uprave",
+     "key": "ADMIN"
+    },
+    {
+     "role": "zamenik 1. člana",
+     "name": "Žarko Novaković",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    },
+    {
+     "role": "2. član",
+     "name": "Predrag Stevanović",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    },
+    {
+     "role": "zamenik 2. člana",
+     "name": "Milan Mihajlović",
+     "by": "Načelnik Opštinske uprave",
+     "key": "ADMIN"
+    }
+   ],
+   "prosireni": [
+    {
+     "no": 1,
+     "member": "Biljana Veljović",
+     "deputy": "Aleksandra Mihajlović",
+     "list": "Aleksandar Vučić – Ujedinjena Srbija",
+     "key": "SNS"
+    },
+    {
+     "no": 2,
+     "member": "Ljiljana Timotijević",
+     "deputy": "Zorica Jaćović",
+     "list": "Ivica Dačić – Faktor stabilnosti!",
+     "key": "SPS"
+    },
+    {
+     "no": 3,
+     "member": "Srđan Kostić",
+     "deputy": "Jugoslav Rakić",
+     "list": "Studentska lista – Studenti pobeđuju",
+     "key": "STUD"
+    },
+    {
+     "no": 4,
+     "member": "Radoljub Nikolić",
+     "deputy": "Milanka Arsenijević",
+     "list": "Rasim Ljajić – Ljudski (SDP – CDP)",
+     "key": "LJAJIC"
+    },
+    {
+     "no": 5,
+     "member": "Miloš Marković",
+     "deputy": "Srđan Mihajlović",
+     "list": "Savez vojvođanskih Mađara – dr Balint Pastor",
+     "key": "SVM"
+    },
+    {
+     "no": 6,
+     "member": "Gordana Šojić",
+     "deputy": "Jelena Radovanović",
+     "list": "Ruska stranka – Srbija u BRIKS-u – Slobodan Nikolić",
+     "key": "RUSKA"
+    },
+    {
+     "no": 8,
+     "member": "Gordana Rakić",
+     "deputy": "Vučica Mitrović",
+     "list": "Evropska Srbija – Marinika Tepić – Zdravko Ponoš",
+     "key": "EVROSRB"
+    },
+    {
+     "no": 9,
+     "member": "Zlata Bradić",
+     "deputy": null,
+     "list": "Bogoljub Karić – Pokret Snaga Srbije – BK",
+     "key": "KARIC"
+    },
+    {
+     "no": 10,
+     "member": "Suzana Arsenijević",
+     "deputy": "Snežana Nedeljković",
+     "list": "Liberalno zelena stranka – Za slobodnu i čistiju Srbiju",
+     "key": "LZS"
+    },
+    {
+     "no": 11,
+     "member": "Ratomir Đorđević",
+     "deputy": "Slavica Mijajlović",
+     "list": "Ćale ovo je za tebe – Petar Đurić – Premijer Srbije",
+     "key": "DJURIC"
+    }
+   ]
+  },
+  "bm04": {
+   "stalni": [
+    {
+     "role": "predsednik",
+     "name": "Stevan Ivić",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    },
+    {
+     "role": "zamenik predsednika",
+     "name": "Žarko Vidosavljević",
+     "by": "Poslanička grupa IVICA DAČIĆ – Socijalistička partija Srbije (SPS)",
+     "key": "SPS"
+    },
+    {
+     "role": "1. član",
+     "name": "Vesna Jošanović",
+     "by": "Načelnik Opštinske uprave",
+     "key": "ADMIN"
+    },
+    {
+     "role": "zamenik 1. člana",
+     "name": "Milena Planić",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    },
+    {
+     "role": "2. član",
+     "name": "Milica Kovačević",
+     "by": "Poslanička grupa Dragan Marković Palma – Jedinstvena Srbija",
+     "key": "JS"
+    },
+    {
+     "role": "zamenik 2. člana",
+     "name": "Dragan Račić",
+     "by": "Načelnik Opštinske uprave",
+     "key": "ADMIN"
+    }
+   ],
+   "prosireni": [
+    {
+     "no": 1,
+     "member": "Dragan Arsenijević",
+     "deputy": "Toma Jovanović",
+     "list": "Aleksandar Vučić – Ujedinjena Srbija",
+     "key": "SNS"
+    },
+    {
+     "no": 2,
+     "member": "Aleksandar Jaćović",
+     "deputy": "Zorica Sekić",
+     "list": "Ivica Dačić – Faktor stabilnosti!",
+     "key": "SPS"
+    },
+    {
+     "no": 3,
+     "member": "Goran Jovanović",
+     "deputy": "Radivoje Vukoičić",
+     "list": "Studentska lista – Studenti pobeđuju",
+     "key": "STUD"
+    },
+    {
+     "no": 4,
+     "member": "Nebojša Nedeljković",
+     "deputy": "Hajrije Ristić",
+     "list": "Rasim Ljajić – Ljudski (SDP – CDP)",
+     "key": "LJAJIC"
+    },
+    {
+     "no": 5,
+     "member": "Danijela Novaković",
+     "deputy": "Strahinja Đorđević",
+     "list": "Savez vojvođanskih Mađara – dr Balint Pastor",
+     "key": "SVM"
+    },
+    {
+     "no": 6,
+     "member": "Radoje Đorđević",
+     "deputy": "Ljubiša Jovanović",
+     "list": "Ruska stranka – Srbija u BRIKS-u – Slobodan Nikolić",
+     "key": "RUSKA"
+    },
+    {
+     "no": 8,
+     "member": "Mladen Gilić",
+     "deputy": "Dragić Mitrović",
+     "list": "Evropska Srbija – Marinika Tepić – Zdravko Ponoš",
+     "key": "EVROSRB"
+    },
+    {
+     "no": 10,
+     "member": "Nenad Veselinović",
+     "deputy": "Radoljub Radivojević",
+     "list": "Liberalno zelena stranka – Za slobodnu i čistiju Srbiju",
+     "key": "LZS"
+    },
+    {
+     "no": 11,
+     "member": "Jovana Ristić",
+     "deputy": "Anđela Miladinović",
+     "list": "Ćale ovo je za tebe – Petar Đurić – Premijer Srbije",
+     "key": "DJURIC"
+    },
+    {
+     "no": 12,
+     "member": "Milena Pantić",
+     "deputy": "Gordana Radović",
+     "list": "Vladimir Gajić – Alternativa za Srbiju",
+     "key": "GAJIC"
+    }
+   ]
+  },
+  "bm05": {
+   "stalni": [
+    {
+     "role": "predsednik",
+     "name": "Jelena Nikićijević",
+     "by": "Poslanička grupa Stranka slobode i pravde",
+     "key": "SSP"
+    },
+    {
+     "role": "zamenik predsednika",
+     "name": "Darko Petrović",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    },
+    {
+     "role": "1. član",
+     "name": "Tanja Lazić",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    },
+    {
+     "role": "zamenik 1. člana",
+     "name": "Božidar Radoičić",
+     "by": "Poslanička grupa Socijaldemokratska partija Srbije",
+     "key": "SDPS"
+    },
+    {
+     "role": "2. član",
+     "name": "Milorad Stefanović",
+     "by": "Poslanička grupa IVICA DAČIĆ – Socijalistička partija Srbije (SPS)",
+     "key": "SPS"
+    },
+    {
+     "role": "zamenik 2. člana",
+     "name": "Dušan Milijanović",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    }
+   ],
+   "prosireni": [
+    {
+     "no": 1,
+     "member": "Daniela Lapčević",
+     "deputy": "Branislav Radivojević",
+     "list": "Aleksandar Vučić – Ujedinjena Srbija",
+     "key": "SNS"
+    },
+    {
+     "no": 2,
+     "member": "Bojana Radoičić",
+     "deputy": "Milovan Tanasković",
+     "list": "Ivica Dačić – Faktor stabilnosti!",
+     "key": "SPS"
+    },
+    {
+     "no": 3,
+     "member": "Danilo Milosavljević",
+     "deputy": "Aleksandar Vesović",
+     "list": "Studentska lista – Studenti pobeđuju",
+     "key": "STUD"
+    },
+    {
+     "no": 4,
+     "member": "Ana Đorđević",
+     "deputy": "Sanja Đurić",
+     "list": "Rasim Ljajić – Ljudski (SDP – CDP)",
+     "key": "LJAJIC"
+    },
+    {
+     "no": 5,
+     "member": "Nemanja Ilić",
+     "deputy": "Milinko Sretenović",
+     "list": "Savez vojvođanskih Mađara – dr Balint Pastor",
+     "key": "SVM"
+    },
+    {
+     "no": 6,
+     "member": "Darko Milojević",
+     "deputy": "Aleksandar Milićević",
+     "list": "Ruska stranka – Srbija u BRIKS-u – Slobodan Nikolić",
+     "key": "RUSKA"
+    },
+    {
+     "no": 7,
+     "member": "Daliborka Milutinović",
+     "deputy": "Radomir Milutinović",
+     "list": "Autentična desnica – dr Miloš Jovanović",
+     "key": "AUTDES"
+    },
+    {
+     "no": 8,
+     "member": "Radovan Gilić",
+     "deputy": "Marko Tomić",
+     "list": "Evropska Srbija – Marinika Tepić – Zdravko Ponoš",
+     "key": "EVROSRB"
+    },
+    {
+     "no": 10,
+     "member": "Marko Radulović",
+     "deputy": "Slavica Račić",
+     "list": "Liberalno zelena stranka – Za slobodnu i čistiju Srbiju",
+     "key": "LZS"
+    },
+    {
+     "no": 11,
+     "member": "Danijela Jovičić",
+     "deputy": "Ljiljana Mihajlović",
+     "list": "Ćale ovo je za tebe – Petar Đurić – Premijer Srbije",
+     "key": "DJURIC"
+    },
+    {
+     "no": 12,
+     "member": "Slađana Jovanović",
+     "deputy": null,
+     "list": "Vladimir Gajić – Alternativa za Srbiju",
+     "key": "GAJIC"
+    }
+   ]
+  },
+  "bm06": {
+   "stalni": [
+    {
+     "role": "predsednik",
+     "name": "Miljan Beloica",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    },
+    {
+     "role": "zamenik predsednika",
+     "name": "Sanja Stojanović",
+     "by": "Poslanička grupa Dragan Marković Palma – Jedinstvena Srbija",
+     "key": "JS"
+    },
+    {
+     "role": "1. član",
+     "name": "Julija Pendić",
+     "by": "Poslanička grupa IVICA DAČIĆ – Socijalistička partija Srbije (SPS)",
+     "key": "SPS"
+    },
+    {
+     "role": "zamenik 1. člana",
+     "name": "Nikola Radović",
+     "by": "Poslanička grupa Poslanici uz studente: za kontrolu izbora",
+     "key": "STUD"
+    },
+    {
+     "role": "2. član",
+     "name": "Milan Aksentijević",
+     "by": "Načelnik Opštinske uprave",
+     "key": "ADMIN"
+    },
+    {
+     "role": "zamenik 2. člana",
+     "name": "Marko Milovanović",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    }
+   ],
+   "prosireni": [
+    {
+     "no": 1,
+     "member": "Mićan Vićentijević",
+     "deputy": "Radosav Beloica",
+     "list": "Aleksandar Vučić – Ujedinjena Srbija",
+     "key": "SNS"
+    },
+    {
+     "no": 2,
+     "member": "Dragan Andrić",
+     "deputy": "Vukašinović Slobodanka",
+     "list": "Ivica Dačić – Faktor stabilnosti!",
+     "key": "SPS"
+    },
+    {
+     "no": 3,
+     "member": "Ivan Deljanin",
+     "deputy": "Kuzmanović Vesna",
+     "list": "Studentska lista – Studenti pobeđuju",
+     "key": "STUD"
+    },
+    {
+     "no": 4,
+     "member": "Zoran Agatonović",
+     "deputy": "Dragica Todosijević",
+     "list": "Rasim Ljajić – Ljudski (SDP – CDP)",
+     "key": "LJAJIC"
+    },
+    {
+     "no": 5,
+     "member": "Ivana Simić",
+     "deputy": "Kosta Obradović",
+     "list": "Savez vojvođanskih Mađara – dr Balint Pastor",
+     "key": "SVM"
+    },
+    {
+     "no": 6,
+     "member": "Snežana Miletić",
+     "deputy": "Danijela Kuzmanović",
+     "list": "Ruska stranka – Srbija u BRIKS-u – Slobodan Nikolić",
+     "key": "RUSKA"
+    },
+    {
+     "no": 7,
+     "member": "Mateja Nikolić",
+     "deputy": "Sanja Filipović",
+     "list": "Autentična desnica – dr Miloš Jovanović",
+     "key": "AUTDES"
+    },
+    {
+     "no": 8,
+     "member": "Aleksandar Vukadinović",
+     "deputy": "Dragana Gilić",
+     "list": "Evropska Srbija – Marinika Tepić – Zdravko Ponoš",
+     "key": "EVROSRB"
+    },
+    {
+     "no": 10,
+     "member": "Ana Simić",
+     "deputy": "Marina Nikolić",
+     "list": "Liberalno zelena stranka – Za slobodnu i čistiju Srbiju",
+     "key": "LZS"
+    },
+    {
+     "no": 11,
+     "member": "Milena Beloica",
+     "deputy": "Biljana Jokanović",
+     "list": "Ćale ovo je za tebe – Petar Đurić – Premijer Srbije",
+     "key": "DJURIC"
+    },
+    {
+     "no": 12,
+     "member": "Slavica Novović",
+     "deputy": "Marko Jokanović",
+     "list": "Vladimir Gajić – Alternativa za Srbiju",
+     "key": "GAJIC"
+    }
+   ]
+  },
+  "bm07": {
+   "stalni": [
+    {
+     "role": "predsednik",
+     "name": "Svetlana Šmigić",
+     "by": "Poslanička grupa Poslanici uz studente: za kontrolu izbora",
+     "key": "STUD"
+    },
+    {
+     "role": "zamenik predsednika",
+     "name": "Marko Antić",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    },
+    {
+     "role": "1. član",
+     "name": "Radoljub Martinović",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    },
+    {
+     "role": "zamenik 1. člana",
+     "name": "Dragoljub Bogdanović",
+     "by": "Poslanička grupa Stranka slobode i pravde",
+     "key": "SSP"
+    },
+    {
+     "role": "2. član",
+     "name": "Nadica Tošić",
+     "by": "Poslanička grupa Socijaldemokratska partija Srbije",
+     "key": "SDPS"
+    },
+    {
+     "role": "zamenik 2. člana",
+     "name": "Marija Antić",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    }
+   ],
+   "prosireni": [
+    {
+     "no": 1,
+     "member": "Aleksandar Kandić",
+     "deputy": "Nebojša Stojanović",
+     "list": "Aleksandar Vučić – Ujedinjena Srbija",
+     "key": "SNS"
+    },
+    {
+     "no": 2,
+     "member": "Spomenka Petronijević",
+     "deputy": "Mirjana Jovanović",
+     "list": "Ivica Dačić – Faktor stabilnosti!",
+     "key": "SPS"
+    },
+    {
+     "no": 3,
+     "member": "Dušica Ristić",
+     "deputy": "Milutin Šmigić",
+     "list": "Studentska lista – Studenti pobeđuju",
+     "key": "STUD"
+    },
+    {
+     "no": 4,
+     "member": "Ljubiša Vukašinović",
+     "deputy": "Zoran Ivanović",
+     "list": "Rasim Ljajić – Ljudski (SDP – CDP)",
+     "key": "LJAJIC"
+    },
+    {
+     "no": 5,
+     "member": "Marko Gligorijević",
+     "deputy": "Stanimir Martinović",
+     "list": "Savez vojvođanskih Mađara – dr Balint Pastor",
+     "key": "SVM"
+    },
+    {
+     "no": 6,
+     "member": "Dragiša Todorović",
+     "deputy": "Aleksandar Miletić",
+     "list": "Ruska stranka – Srbija u BRIKS-u – Slobodan Nikolić",
+     "key": "RUSKA"
+    },
+    {
+     "no": 7,
+     "member": "Vidinka Rakić",
+     "deputy": "Aleksandar Nikolić",
+     "list": "Autentična desnica – dr Miloš Jovanović",
+     "key": "AUTDES"
+    },
+    {
+     "no": 8,
+     "member": "Jelena Gilić",
+     "deputy": "Slavica Lukić",
+     "list": "Evropska Srbija – Marinika Tepić – Zdravko Ponoš",
+     "key": "EVROSRB"
+    },
+    {
+     "no": 10,
+     "member": "Danilo Jović",
+     "deputy": "Mirjana Milićević",
+     "list": "Liberalno zelena stranka – Za slobodnu i čistiju Srbiju",
+     "key": "LZS"
+    },
+    {
+     "no": 11,
+     "member": "Slaviša Vidosavljević",
+     "deputy": "Ivan Ćirić",
+     "list": "Ćale ovo je za tebe – Petar Đurić – Premijer Srbije",
+     "key": "DJURIC"
+    },
+    {
+     "no": 12,
+     "member": "Krstijana Vujić",
+     "deputy": null,
+     "list": "Vladimir Gajić – Alternativa za Srbiju",
+     "key": "GAJIC"
+    }
+   ]
+  },
+  "bm08": {
+   "stalni": [
+    {
+     "role": "predsednik",
+     "name": "Marija Vasić",
+     "by": "Poslanička grupa Socijaldemokratska partija Srbije",
+     "key": "SDPS"
+    },
+    {
+     "role": "zamenik predsednika",
+     "name": "Zvezdan Milovanović",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    },
+    {
+     "role": "1. član",
+     "name": "Dragana Popović-Mišković",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    },
+    {
+     "role": "zamenik 1. člana",
+     "name": "Slavoljub Milenković",
+     "by": "Poslanička grupa Narodni pokret Srbije – Novo lice Srbije",
+     "key": "NPS"
+    },
+    {
+     "role": "2. član",
+     "name": "Dragana Gašić",
+     "by": "Poslanička grupa Ekološki ustanak",
+     "key": "EU"
+    },
+    {
+     "role": "zamenik 2. člana",
+     "name": "Tomislav Vučetić",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    }
+   ],
+   "prosireni": [
+    {
+     "no": 1,
+     "member": "Snežana Vučetić",
+     "deputy": "Mileva Radosavljević",
+     "list": "Aleksandar Vučić – Ujedinjena Srbija",
+     "key": "SNS"
+    },
+    {
+     "no": 2,
+     "member": "Svetlana Radovanović",
+     "deputy": "Zorica Jablanović",
+     "list": "Ivica Dačić – Faktor stabilnosti!",
+     "key": "SPS"
+    },
+    {
+     "no": 3,
+     "member": "Dragoš Pavićević",
+     "deputy": "Mirjana Pavićević",
+     "list": "Studentska lista – Studenti pobeđuju",
+     "key": "STUD"
+    },
+    {
+     "no": 4,
+     "member": "Milutin Filipović",
+     "deputy": "Ružica Simić",
+     "list": "Rasim Ljajić – Ljudski (SDP – CDP)",
+     "key": "LJAJIC"
+    },
+    {
+     "no": 5,
+     "member": "Danijela Đorđević",
+     "deputy": "Jelena Novičić",
+     "list": "Savez vojvođanskih Mađara – dr Balint Pastor",
+     "key": "SVM"
+    },
+    {
+     "no": 6,
+     "member": "Jelena Martinović",
+     "deputy": "Velibor Mišković",
+     "list": "Ruska stranka – Srbija u BRIKS-u – Slobodan Nikolić",
+     "key": "RUSKA"
+    },
+    {
+     "no": 7,
+     "member": "Zlata Agatonović",
+     "deputy": "Sanja Filipović",
+     "list": "Autentična desnica – dr Miloš Jovanović",
+     "key": "AUTDES"
+    },
+    {
+     "no": 8,
+     "member": "Rada Bašović",
+     "deputy": "Jelena Vukašinović",
+     "list": "Evropska Srbija – Marinika Tepić – Zdravko Ponoš",
+     "key": "EVROSRB"
+    },
+    {
+     "no": 10,
+     "member": "Biljana Radosavljević",
+     "deputy": "Slavica Filipović",
+     "list": "Liberalno zelena stranka – Za slobodnu i čistiju Srbiju",
+     "key": "LZS"
+    },
+    {
+     "no": 11,
+     "member": "Marica Pantić",
+     "deputy": "Dragan Savić",
+     "list": "Ćale ovo je za tebe – Petar Đurić – Premijer Srbije",
+     "key": "DJURIC"
+    },
+    {
+     "no": 12,
+     "member": "Nataša Vasić",
+     "deputy": "Danijela Radojević",
+     "list": "Vladimir Gajić – Alternativa za Srbiju",
+     "key": "GAJIC"
+    }
+   ]
+  },
+  "bm09": {
+   "stalni": [
+    {
+     "role": "predsednik",
+     "name": "Dejan Vasiljević",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    },
+    {
+     "role": "zamenik predsednika",
+     "name": "Jelica Vasiljević",
+     "by": "Poslanička grupa Savez vojvođanskih Mađara",
+     "key": "SVM"
+    },
+    {
+     "role": "1. član",
+     "name": "Zvonimir Vojinović",
+     "by": "Poslanička grupa IVICA DAČIĆ – Socijalistička partija Srbije (SPS)",
+     "key": "SPS"
+    },
+    {
+     "role": "zamenik 1. člana",
+     "name": "Božica Vasić",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    },
+    {
+     "role": "2. član",
+     "name": "Zdravko Deljanin",
+     "by": "Načelnik Opštinske uprave",
+     "key": "ADMIN"
+    },
+    {
+     "role": "zamenik 2. člana",
+     "name": "Slaviša Nedeljković",
+     "by": "Poslanička grupa Zeleno-levi front – Ne davimo Beograd",
+     "key": "ZLF"
+    }
+   ],
+   "prosireni": [
+    {
+     "no": 1,
+     "member": "Mirjana Jović",
+     "deputy": "Mirjana Nikić",
+     "list": "Aleksandar Vučić – Ujedinjena Srbija",
+     "key": "SNS"
+    },
+    {
+     "no": 2,
+     "member": "Mirjana Mihajlović",
+     "deputy": "Sanela Miletić",
+     "list": "Ivica Dačić – Faktor stabilnosti!",
+     "key": "SPS"
+    },
+    {
+     "no": 3,
+     "member": "Sava Milojević",
+     "deputy": "Jana Simović",
+     "list": "Studentska lista – Studenti pobeđuju",
+     "key": "STUD"
+    },
+    {
+     "no": 4,
+     "member": "Milanka Savić",
+     "deputy": "Svetlana Marković",
+     "list": "Rasim Ljajić – Ljudski (SDP – CDP)",
+     "key": "LJAJIC"
+    },
+    {
+     "no": 5,
+     "member": "Ivana Lazić",
+     "deputy": "Lana Lazić",
+     "list": "Savez vojvođanskih Mađara – dr Balint Pastor",
+     "key": "SVM"
+    },
+    {
+     "no": 6,
+     "member": "Elena Nikić",
+     "deputy": "Marija Stojadinović",
+     "list": "Ruska stranka – Srbija u BRIKS-u – Slobodan Nikolić",
+     "key": "RUSKA"
+    },
+    {
+     "no": 7,
+     "member": "Anja Bojović",
+     "deputy": null,
+     "list": "Autentična desnica – dr Miloš Jovanović",
+     "key": "AUTDES"
+    },
+    {
+     "no": 8,
+     "member": "Miloje Pavlović",
+     "deputy": "Marija Jović",
+     "list": "Evropska Srbija – Marinika Tepić – Zdravko Ponoš",
+     "key": "EVROSRB"
+    },
+    {
+     "no": 10,
+     "member": "Vera Radovanović",
+     "deputy": "Aleksandar Ivanjac",
+     "list": "Liberalno zelena stranka – Za slobodnu i čistiju Srbiju",
+     "key": "LZS"
+    },
+    {
+     "no": 11,
+     "member": "Darko Stojadinović",
+     "deputy": "Danilo Ilić",
+     "list": "Ćale ovo je za tebe – Petar Đurić – Premijer Srbije",
+     "key": "DJURIC"
+    },
+    {
+     "no": 12,
+     "member": "Milena Jevremović",
+     "deputy": "Gordana Jevremović",
+     "list": "Vladimir Gajić – Alternativa za Srbiju",
+     "key": "GAJIC"
+    }
+   ]
+  },
+  "bm10": {
+   "stalni": [
+    {
+     "role": "predsednik",
+     "name": "Svetlana Đorđević",
+     "by": "Načelnik Opštinske uprave",
+     "key": "ADMIN"
+    },
+    {
+     "role": "zamenik predsednika",
+     "name": "Marko Milisavljević",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    },
+    {
+     "role": "1. član",
+     "name": "Vesna Vukoičić",
+     "by": "Poslanička grupa IVICA DAČIĆ – Socijalistička partija Srbije (SPS)",
+     "key": "SPS"
+    },
+    {
+     "role": "zamenik 1. člana",
+     "name": "Milivoje Jović",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    },
+    {
+     "role": "2. član",
+     "name": "Biljana Đokić",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    },
+    {
+     "role": "zamenik 2. člana",
+     "name": "Aleksandar Vidić",
+     "by": "Načelnik Opštinske uprave",
+     "key": "ADMIN"
+    }
+   ],
+   "prosireni": [
+    {
+     "no": 1,
+     "member": "Gorica Milivojević",
+     "deputy": "Dobrivoje Jović",
+     "list": "Aleksandar Vučić – Ujedinjena Srbija",
+     "key": "SNS"
+    },
+    {
+     "no": 2,
+     "member": "Tamara Vojinović",
+     "deputy": "Mirčeta Vukašinović",
+     "list": "Ivica Dačić – Faktor stabilnosti!",
+     "key": "SPS"
+    },
+    {
+     "no": 3,
+     "member": "Darko Janićijević",
+     "deputy": "Mirjana Janićijević",
+     "list": "Studentska lista – Studenti pobeđuju",
+     "key": "STUD"
+    },
+    {
+     "no": 4,
+     "member": "Marko Filipović",
+     "deputy": "Seniša Ilić",
+     "list": "Rasim Ljajić – Ljudski (SDP – CDP)",
+     "key": "LJAJIC"
+    },
+    {
+     "no": 5,
+     "member": "Goran Đokić",
+     "deputy": "Žarko Dragović",
+     "list": "Savez vojvođanskih Mađara – dr Balint Pastor",
+     "key": "SVM"
+    },
+    {
+     "no": 6,
+     "member": "Suzana Lazarević",
+     "deputy": "Verica Stojadinović",
+     "list": "Ruska stranka – Srbija u BRIKS-u – Slobodan Nikolić",
+     "key": "RUSKA"
+    },
+    {
+     "no": 8,
+     "member": "Darko Vukojević",
+     "deputy": "Jasminka Matić",
+     "list": "Evropska Srbija – Marinika Tepić – Zdravko Ponoš",
+     "key": "EVROSRB"
+    },
+    {
+     "no": 10,
+     "member": "Nenad Stevanović",
+     "deputy": "Sandra Stević",
+     "list": "Liberalno zelena stranka – Za slobodnu i čistiju Srbiju",
+     "key": "LZS"
+    },
+    {
+     "no": 11,
+     "member": "Boško Gilić",
+     "deputy": "Goran Krstić",
+     "list": "Ćale ovo je za tebe – Petar Đurić – Premijer Srbije",
+     "key": "DJURIC"
+    },
+    {
+     "no": 12,
+     "member": "Zoran Deljanin",
+     "deputy": null,
+     "list": "Vladimir Gajić – Alternativa za Srbiju",
+     "key": "GAJIC"
+    }
+   ]
+  },
+  "bm11": {
+   "stalni": [
+    {
+     "role": "predsednik",
+     "name": "Danilo Đukić",
+     "by": "Poslanička grupa Narodni pokret Srbije – Novo lice Srbije",
+     "key": "NPS"
+    },
+    {
+     "role": "zamenik predsednika",
+     "name": "Predrag Mihajlović",
+     "by": "Poslanička grupa Zeleno-levi front – Ne davimo Beograd",
+     "key": "ZLF"
+    },
+    {
+     "role": "1. član",
+     "name": "Goran Račić",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    },
+    {
+     "role": "zamenik 1. člana",
+     "name": "Gorica Tanasković",
+     "by": "Poslanička grupa Socijaldemokratska partija Srbije",
+     "key": "SDPS"
+    },
+    {
+     "role": "2. član",
+     "name": "Radomir Šmigić",
+     "by": "Poslanička grupa Poslanici uz studente: za kontrolu izbora",
+     "key": "STUD"
+    },
+    {
+     "role": "zamenik 2. člana",
+     "name": "Bojan Aleksić",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    }
+   ],
+   "prosireni": [
+    {
+     "no": 1,
+     "member": "Dušan Vukašinović",
+     "deputy": "Marija Miletić",
+     "list": "Aleksandar Vučić – Ujedinjena Srbija",
+     "key": "SNS"
+    },
+    {
+     "no": 2,
+     "member": "Branka Nikolić",
+     "deputy": "Jasna Milosavljević",
+     "list": "Ivica Dačić – Faktor stabilnosti!",
+     "key": "SPS"
+    },
+    {
+     "no": 3,
+     "member": "Radica Vidaković",
+     "deputy": "Nebojša Šmigić",
+     "list": "Studentska lista – Studenti pobeđuju",
+     "key": "STUD"
+    },
+    {
+     "no": 4,
+     "member": "Jovanka Mihajlović",
+     "deputy": "Stanica Jovanović",
+     "list": "Rasim Ljajić – Ljudski (SDP – CDP)",
+     "key": "LJAJIC"
+    },
+    {
+     "no": 5,
+     "member": "Goran Arsić",
+     "deputy": "Aleksandar Arsić",
+     "list": "Savez vojvođanskih Mađara – dr Balint Pastor",
+     "key": "SVM"
+    },
+    {
+     "no": 6,
+     "member": "Veljko Vasiljević",
+     "deputy": "Milen Jović",
+     "list": "Ruska stranka – Srbija u BRIKS-u – Slobodan Nikolić",
+     "key": "RUSKA"
+    },
+    {
+     "no": 8,
+     "member": "Goran Bošković",
+     "deputy": "Milenka Simijonović",
+     "list": "Evropska Srbija – Marinika Tepić – Zdravko Ponoš",
+     "key": "EVROSRB"
+    },
+    {
+     "no": 10,
+     "member": "Milanka Filipović",
+     "deputy": "Zorica Filipović",
+     "list": "Liberalno zelena stranka – Za slobodnu i čistiju Srbiju",
+     "key": "LZS"
+    },
+    {
+     "no": 11,
+     "member": "Snežana Miletić",
+     "deputy": "Mirjana Zdravković",
+     "list": "Ćale ovo je za tebe – Petar Đurić – Premijer Srbije",
+     "key": "DJURIC"
+    },
+    {
+     "no": 12,
+     "member": "Snežana Deljanin",
+     "deputy": null,
+     "list": "Vladimir Gajić – Alternativa za Srbiju",
+     "key": "GAJIC"
+    }
+   ]
+  },
+  "bm12": {
+   "stalni": [
+    {
+     "role": "predsednik",
+     "name": "Sretko Smilić",
+     "by": "Poslanička grupa Narodni pokret Srbije – Novo lice Srbije",
+     "key": "NPS"
+    },
+    {
+     "role": "zamenik predsednika",
+     "name": "Dušan Milovanović",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    },
+    {
+     "role": "1. član",
+     "name": "Svetlana Pavlović",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    },
+    {
+     "role": "zamenik 1. člana",
+     "name": "Jovana Brajković",
+     "by": "Poslanička grupa Zeleno-levi front – Ne davimo Beograd",
+     "key": "ZLF"
+    },
+    {
+     "role": "2. član",
+     "name": "Svetlana Janković",
+     "by": "Poslanička grupa SRBIJA CENTAR – SRCE",
+     "key": "SRCE"
+    },
+    {
+     "role": "zamenik 2. člana",
+     "name": "Zorica Ilić",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    }
+   ],
+   "prosireni": [
+    {
+     "no": 1,
+     "member": "Biserka Blagojević",
+     "deputy": "Zorica Jevtić",
+     "list": "Aleksandar Vučić – Ujedinjena Srbija",
+     "key": "SNS"
+    },
+    {
+     "no": 2,
+     "member": "Dejan Nikolić",
+     "deputy": "Miljana Milosavljević",
+     "list": "Ivica Dačić – Faktor stabilnosti!",
+     "key": "SPS"
+    },
+    {
+     "no": 3,
+     "member": "Milan Dramićanin",
+     "deputy": "Sandra Otašević",
+     "list": "Studentska lista – Studenti pobeđuju",
+     "key": "STUD"
+    },
+    {
+     "no": 4,
+     "member": "Mirjana Kovačević",
+     "deputy": "Rada Vasić",
+     "list": "Rasim Ljajić – Ljudski (SDP – CDP)",
+     "key": "LJAJIC"
+    },
+    {
+     "no": 5,
+     "member": "Marija Anđelković",
+     "deputy": "Darko Radosavljević",
+     "list": "Savez vojvođanskih Mađara – dr Balint Pastor",
+     "key": "SVM"
+    },
+    {
+     "no": 6,
+     "member": "Danijela Radičević",
+     "deputy": "Marija Grčić",
+     "list": "Ruska stranka – Srbija u BRIKS-u – Slobodan Nikolić",
+     "key": "RUSKA"
+    },
+    {
+     "no": 8,
+     "member": "Slađana Bošković",
+     "deputy": "Smilja Petrović",
+     "list": "Evropska Srbija – Marinika Tepić – Zdravko Ponoš",
+     "key": "EVROSRB"
+    },
+    {
+     "no": 10,
+     "member": "Radica Petrović Ćirković",
+     "deputy": "Drinka Obradović",
+     "list": "Liberalno zelena stranka – Za slobodnu i čistiju Srbiju",
+     "key": "LZS"
+    },
+    {
+     "no": 11,
+     "member": "Gordana Vasić",
+     "deputy": "Zoran Mladenović",
+     "list": "Ćale ovo je za tebe – Petar Đurić – Premijer Srbije",
+     "key": "DJURIC"
+    },
+    {
+     "no": 12,
+     "member": "Momčilo Milovanović",
+     "deputy": "Jelena Gizdavić",
+     "list": "Vladimir Gajić – Alternativa za Srbiju",
+     "key": "GAJIC"
+    }
+   ]
+  },
+  "bm13": {
+   "stalni": [
+    {
+     "role": "predsednik",
+     "name": "Katarina Mitrović",
+     "by": "Poslanička grupa Dragan Marković Palma – Jedinstvena Srbija",
+     "key": "JS"
+    },
+    {
+     "role": "zamenik predsednika",
+     "name": "Violeta Dokić",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    },
+    {
+     "role": "1. član",
+     "name": "Anastasija Filipović",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    },
+    {
+     "role": "zamenik 1. člana",
+     "name": "Milorad Andrijašević",
+     "by": "Poslanička grupa Poslanici uz studente: za kontrolu izbora",
+     "key": "STUD"
+    },
+    {
+     "role": "2. član",
+     "name": "Nikola Gajić",
+     "by": "Poslanička grupa Narodni pokret Srbije – Novo lice Srbije",
+     "key": "NPS"
+    },
+    {
+     "role": "zamenik 2. člana",
+     "name": "Miroljub Jović",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    }
+   ],
+   "prosireni": [
+    {
+     "no": 1,
+     "member": "Ivan Milijanović",
+     "deputy": "Milan Milićević",
+     "list": "Aleksandar Vučić – Ujedinjena Srbija",
+     "key": "SNS"
+    },
+    {
+     "no": 2,
+     "member": "Zoran Milutinović",
+     "deputy": "Predrag Vučić",
+     "list": "Ivica Dačić – Faktor stabilnosti!",
+     "key": "SPS"
+    },
+    {
+     "no": 3,
+     "member": "Đura Cahun",
+     "deputy": "Nemanja Jović",
+     "list": "Studentska lista – Studenti pobeđuju",
+     "key": "STUD"
+    },
+    {
+     "no": 4,
+     "member": "Stefan Filipović",
+     "deputy": "Emilija Milenković",
+     "list": "Rasim Ljajić – Ljudski (SDP – CDP)",
+     "key": "LJAJIC"
+    },
+    {
+     "no": 5,
+     "member": "Tamara Redžepović",
+     "deputy": "Đurđe Redžepović",
+     "list": "Savez vojvođanskih Mađara – dr Balint Pastor",
+     "key": "SVM"
+    },
+    {
+     "no": 6,
+     "member": "Marta Radovanović",
+     "deputy": "Dragoslav Redžepović",
+     "list": "Ruska stranka – Srbija u BRIKS-u – Slobodan Nikolić",
+     "key": "RUSKA"
+    },
+    {
+     "no": 8,
+     "member": "Radojko Ristić",
+     "deputy": "Ivan Simijonović",
+     "list": "Evropska Srbija – Marinika Tepić – Zdravko Ponoš",
+     "key": "EVROSRB"
+    },
+    {
+     "no": 10,
+     "member": "Branka Redžepović",
+     "deputy": "Jelena Filipović",
+     "list": "Liberalno zelena stranka – Za slobodnu i čistiju Srbiju",
+     "key": "LZS"
+    },
+    {
+     "no": 11,
+     "member": "Sanja Mitrović",
+     "deputy": "Nikola Aleksić",
+     "list": "Ćale ovo je za tebe – Petar Đurić – Premijer Srbije",
+     "key": "DJURIC"
+    },
+    {
+     "no": 12,
+     "member": "Desanka Ćamilović",
+     "deputy": "Dalibor Bazić",
+     "list": "Vladimir Gajić – Alternativa za Srbiju",
+     "key": "GAJIC"
+    }
+   ]
+  },
+  "bm14": {
+   "stalni": [
+    {
+     "role": "predsednik",
+     "name": "Ana Marković",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    },
+    {
+     "role": "zamenik predsednika",
+     "name": "Jovica Deljanin",
+     "by": "Načelnik Opštinske uprave",
+     "key": "ADMIN"
+    },
+    {
+     "role": "1. član",
+     "name": "Milosav Andrijašević",
+     "by": "Poslanička grupa Poslanici uz studente: za kontrolu izbora",
+     "key": "STUD"
+    },
+    {
+     "role": "zamenik 1. člana",
+     "name": "Milan Pavlović",
+     "by": "Poslanička grupa PUPS – solidarnost i pravda",
+     "key": "PUPS"
+    },
+    {
+     "role": "2. član",
+     "name": "Biljana Perić",
+     "by": "Poslanička grupa Stranka slobode i pravde",
+     "key": "SSP"
+    },
+    {
+     "role": "zamenik 2. člana",
+     "name": "Slobodan Zdravković",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    }
+   ],
+   "prosireni": [
+    {
+     "no": 1,
+     "member": "Milica Ilić",
+     "deputy": "Goran Novaković",
+     "list": "Aleksandar Vučić – Ujedinjena Srbija",
+     "key": "SNS"
+    },
+    {
+     "no": 2,
+     "member": "Miloš Milićević",
+     "deputy": "Zvonimir Stanković",
+     "list": "Ivica Dačić – Faktor stabilnosti!",
+     "key": "SPS"
+    },
+    {
+     "no": 3,
+     "member": "Dušan Ivić",
+     "deputy": "Dušan Radovanović",
+     "list": "Studentska lista – Studenti pobeđuju",
+     "key": "STUD"
+    },
+    {
+     "no": 4,
+     "member": "Petar Gašić",
+     "deputy": "Ljiljana Gašić",
+     "list": "Rasim Ljajić – Ljudski (SDP – CDP)",
+     "key": "LJAJIC"
+    },
+    {
+     "no": 5,
+     "member": "Martin Jović",
+     "deputy": "Marko Radovanović",
+     "list": "Savez vojvođanskih Mađara – dr Balint Pastor",
+     "key": "SVM"
+    },
+    {
+     "no": 6,
+     "member": "Radiša Ivanović",
+     "deputy": "Jelena Veljović Kocić",
+     "list": "Ruska stranka – Srbija u BRIKS-u – Slobodan Nikolić",
+     "key": "RUSKA"
+    },
+    {
+     "no": 8,
+     "member": "Stanica Filipović",
+     "deputy": "Verica Mićević",
+     "list": "Evropska Srbija – Marinika Tepić – Zdravko Ponoš",
+     "key": "EVROSRB"
+    },
+    {
+     "no": 10,
+     "member": "Španka Bogdanović",
+     "deputy": "Emina Redžepović",
+     "list": "Liberalno zelena stranka – Za slobodnu i čistiju Srbiju",
+     "key": "LZS"
+    },
+    {
+     "no": 11,
+     "member": "Marica Gligorijević",
+     "deputy": "Dejan Jovanović",
+     "list": "Ćale ovo je za tebe – Petar Đurić – Premijer Srbije",
+     "key": "DJURIC"
+    },
+    {
+     "no": 12,
+     "member": "Dragica Vasiljević",
+     "deputy": null,
+     "list": "Vladimir Gajić – Alternativa za Srbiju",
+     "key": "GAJIC"
+    }
+   ]
+  },
+  "bm15": {
+   "stalni": [
+    {
+     "role": "predsednik",
+     "name": "Marko Šutanovac",
+     "by": "Poslanička grupa Stranka slobode i pravde",
+     "key": "SSP"
+    },
+    {
+     "role": "zamenik predsednika",
+     "name": "Aleksandar Jaćović",
+     "by": "Poslanička grupa Pokret slobodnih građana (PSG) – Stranka demokratske akcije",
+     "key": "PSG"
+    },
+    {
+     "role": "1. član",
+     "name": "Anđela Kostić",
+     "by": "Poslanička grupa Zeleno-levi front – Ne davimo Beograd",
+     "key": "ZLF"
+    },
+    {
+     "role": "zamenik 1. člana",
+     "name": "Stefan Zdravković",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    },
+    {
+     "role": "2. član",
+     "name": "Zoran Todorović",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    },
+    {
+     "role": "zamenik 2. člana",
+     "name": "Biserka Ilić",
+     "by": "Načelnik Opštinske uprave",
+     "key": "ADMIN"
+    }
+   ],
+   "prosireni": [
+    {
+     "no": 1,
+     "member": "Nikola Milanović",
+     "deputy": "Marko Milanović",
+     "list": "Aleksandar Vučić – Ujedinjena Srbija",
+     "key": "SNS"
+    },
+    {
+     "no": 2,
+     "member": "Srđan Milenković",
+     "deputy": "Ivana Čarapić",
+     "list": "Ivica Dačić – Faktor stabilnosti!",
+     "key": "SPS"
+    },
+    {
+     "no": 3,
+     "member": "Jelena Kostić",
+     "deputy": "Janja Milojević",
+     "list": "Studentska lista – Studenti pobeđuju",
+     "key": "STUD"
+    },
+    {
+     "no": 4,
+     "member": "Iva Simonović",
+     "deputy": "Petar Lović",
+     "list": "Rasim Ljajić – Ljudski (SDP – CDP)",
+     "key": "LJAJIC"
+    },
+    {
+     "no": 5,
+     "member": "Sandra Zdravković",
+     "deputy": "Milan Nedeljković",
+     "list": "Savez vojvođanskih Mađara – dr Balint Pastor",
+     "key": "SVM"
+    },
+    {
+     "no": 6,
+     "member": "Ivana Milosavljević",
+     "deputy": "Stefan Radović",
+     "list": "Ruska stranka – Srbija u BRIKS-u – Slobodan Nikolić",
+     "key": "RUSKA"
+    },
+    {
+     "no": 7,
+     "member": "Milena Jovanović",
+     "deputy": "Slavica Jovanović",
+     "list": "Autentična desnica – dr Miloš Jovanović",
+     "key": "AUTDES"
+    },
+    {
+     "no": 8,
+     "member": "Tatjana Milosavljević",
+     "deputy": "Snežana Veselinović",
+     "list": "Evropska Srbija – Marinika Tepić – Zdravko Ponoš",
+     "key": "EVROSRB"
+    },
+    {
+     "no": 10,
+     "member": "Gordana Ilić",
+     "deputy": "Svetlana Radunović",
+     "list": "Liberalno zelena stranka – Za slobodnu i čistiju Srbiju",
+     "key": "LZS"
+    },
+    {
+     "no": 11,
+     "member": "Marina Milanović",
+     "deputy": "Dragica Tanasković",
+     "list": "Ćale ovo je za tebe – Petar Đurić – Premijer Srbije",
+     "key": "DJURIC"
+    },
+    {
+     "no": 12,
+     "member": "Radmila Tomašević",
+     "deputy": "Ljiljana Ilić",
+     "list": "Vladimir Gajić – Alternativa za Srbiju",
+     "key": "GAJIC"
+    }
+   ]
+  },
+  "bm16": {
+   "stalni": [
+    {
+     "role": "predsednik",
+     "name": "Svetlana Stepanović",
+     "by": "Poslanička grupa Socijaldemokratska partija Srbije",
+     "key": "SDPS"
+    },
+    {
+     "role": "zamenik predsednika",
+     "name": "Aleksandar Dokić",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    },
+    {
+     "role": "1. član",
+     "name": "Jasmina Ćosić",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    },
+    {
+     "role": "zamenik 1. člana",
+     "name": "Dragmila Ivanjac",
+     "by": "Poslanička grupa IVICA DAČIĆ – Socijalistička partija Srbije (SPS)",
+     "key": "SPS"
+    },
+    {
+     "role": "2. član",
+     "name": "Slađana Šmigić",
+     "by": "Načelnik Opštinske uprave",
+     "key": "ADMIN"
+    },
+    {
+     "role": "zamenik 2. člana",
+     "name": "Nikola Dokić",
+     "by": "Poslanička grupa Narodni pokret Srbije – Novo lice Srbije",
+     "key": "NPS"
+    }
+   ],
+   "prosireni": [
+    {
+     "no": 1,
+     "member": "Olivera Simić",
+     "deputy": "Dušan Radosavljević",
+     "list": "Aleksandar Vučić – Ujedinjena Srbija",
+     "key": "SNS"
+    },
+    {
+     "no": 2,
+     "member": "Nataša Jovanović",
+     "deputy": "Uroš Jelić",
+     "list": "Ivica Dačić – Faktor stabilnosti!",
+     "key": "SPS"
+    },
+    {
+     "no": 3,
+     "member": "Slavica Čarapić",
+     "deputy": "Stefan Bošković",
+     "list": "Studentska lista – Studenti pobeđuju",
+     "key": "STUD"
+    },
+    {
+     "no": 4,
+     "member": "Mladena Nikolić",
+     "deputy": "Marina Radosavljević",
+     "list": "Rasim Ljajić – Ljudski (SDP – CDP)",
+     "key": "LJAJIC"
+    },
+    {
+     "no": 5,
+     "member": "Brankica Minić",
+     "deputy": "Slavica Kuzmanović",
+     "list": "Savez vojvođanskih Mađara – dr Balint Pastor",
+     "key": "SVM"
+    },
+    {
+     "no": 6,
+     "member": "Nikolina Dokić",
+     "deputy": "Mirjana Ćosić",
+     "list": "Ruska stranka – Srbija u BRIKS-u – Slobodan Nikolić",
+     "key": "RUSKA"
+    },
+    {
+     "no": 8,
+     "member": "Ana Timotijević",
+     "deputy": "Ivana Ivanjac",
+     "list": "Evropska Srbija – Marinika Tepić – Zdravko Ponoš",
+     "key": "EVROSRB"
+    },
+    {
+     "no": 10,
+     "member": "Dragica Filipović",
+     "deputy": "Miodrag Obradović",
+     "list": "Liberalno zelena stranka – Za slobodnu i čistiju Srbiju",
+     "key": "LZS"
+    },
+    {
+     "no": 11,
+     "member": "Stefan Đorđević",
+     "deputy": "Vladimir Milosavljević",
+     "list": "Ćale ovo je za tebe – Petar Đurić – Premijer Srbije",
+     "key": "DJURIC"
+    },
+    {
+     "no": 12,
+     "member": "Pavle Lović",
+     "deputy": "Petar Čelić",
+     "list": "Vladimir Gajić – Alternativa za Srbiju",
+     "key": "GAJIC"
+    }
+   ]
+  },
+  "bm17": {
+   "stalni": [
+    {
+     "role": "predsednik",
+     "name": "Zorica Milenković",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    },
+    {
+     "role": "zamenik predsednika",
+     "name": "Radoje Bojović",
+     "by": "Poslanička grupa Poslanici uz studente: za kontrolu izbora",
+     "key": "STUD"
+    },
+    {
+     "role": "1. član",
+     "name": "Biserka Pavlović",
+     "by": "Poslanička grupa Savez vojvođanskih Mađara",
+     "key": "SVM"
+    },
+    {
+     "role": "zamenik 1. člana",
+     "name": "Danilo Dokić",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    },
+    {
+     "role": "2. član",
+     "name": "Milica Nedeljković",
+     "by": "Poslanička grupa Pokret slobodnih građana (PSG) – Stranka demokratske akcije",
+     "key": "PSG"
+    },
+    {
+     "role": "zamenik 2. člana",
+     "name": "Marko Vukašinović",
+     "by": "Poslanička grupa PUPS – solidarnost i pravda",
+     "key": "PUPS"
+    }
+   ],
+   "prosireni": [
+    {
+     "no": 1,
+     "member": "Vojkan Vukadinović",
+     "deputy": "Maja Radojičić",
+     "list": "Aleksandar Vučić – Ujedinjena Srbija",
+     "key": "SNS"
+    },
+    {
+     "no": 2,
+     "member": "Radica Miletić",
+     "deputy": "Nebojša Miletić",
+     "list": "Ivica Dačić – Faktor stabilnosti (SPS, JS, SDPS, Zeleni Srbije)",
+     "key": "SPS"
+    },
+    {
+     "no": 3,
+     "member": "Mile Koprivica",
+     "deputy": "Slavko Ilić",
+     "list": "Studentska lista – Studenti pobeđuju",
+     "key": "STUD"
+    },
+    {
+     "no": 4,
+     "member": "Miljko Bradić",
+     "deputy": "Ljubinko Bradić",
+     "list": "Rasim Ljajić – Ljudski (SDP – CDP)",
+     "key": "LJAJIC"
+    },
+    {
+     "no": 5,
+     "member": "Gorica Vukadinović",
+     "deputy": "Ankica Đorđević",
+     "list": "Savez vojvođanskih Mađara – dr Balint Pastor",
+     "key": "SVM"
+    },
+    {
+     "no": 6,
+     "member": "Gorica Stević",
+     "deputy": "Milica Ugrenović",
+     "list": "Ruska stranka – Srbija u BRIKS-u – Slobodan Nikolić",
+     "key": "RUSKA"
+    },
+    {
+     "no": 7,
+     "member": "Branko Savović",
+     "deputy": null,
+     "list": "Autentična desnica – dr Miloš Jovanović (Novi DSS – Monarhisti – NADA)",
+     "key": "AUTDES"
+    },
+    {
+     "no": 8,
+     "member": "Vesna Arsić",
+     "deputy": "Milka Šmigić",
+     "list": "Evropska Srbija – Marinika Tepić – Zdravko Ponoš",
+     "key": "EVROSRB"
+    },
+    {
+     "no": 10,
+     "member": "Dragan Vukašinović",
+     "deputy": "Lelica Milovanović",
+     "list": "Liberalno zelena stranka – za slobodnu i čistiju Srbiju",
+     "key": "LZS"
+    },
+    {
+     "no": 11,
+     "member": "Vladan Radosavljević",
+     "deputy": "Marija Nikolić",
+     "list": "Ćale ovo je za tebe – Petar Đurić – premijer Srbije",
+     "key": "DJURIC"
+    }
+   ]
+  },
+  "bm18": {
+   "stalni": [
+    {
+     "role": "predsednik",
+     "name": "Filip Radisavljević",
+     "by": "Poslanička grupa Savez vojvođanskih Mađara",
+     "key": "SVM"
+    },
+    {
+     "role": "zamenik predsednika",
+     "name": "Bojan Bojović",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    },
+    {
+     "role": "1. član",
+     "name": "Mirjana Vučinić",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    },
+    {
+     "role": "zamenik 1. člana",
+     "name": "Milovan Perović",
+     "by": "Poslanička grupa IVICA DAČIĆ – Socijalistička partija Srbije (SPS)",
+     "key": "SPS"
+    },
+    {
+     "role": "2. član",
+     "name": "Dejan Rakić",
+     "by": "Poslanička grupa Zeleno-levi front – Ne davimo Beograd",
+     "key": "ZLF"
+    },
+    {
+     "role": "zamenik 2. člana",
+     "name": "Ivan Nikolić",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    }
+   ],
+   "prosireni": [
+    {
+     "no": 1,
+     "member": "Maja Đorđević",
+     "deputy": "Branko Milovanović",
+     "list": "Aleksandar Vučić – Ujedinjena Srbija",
+     "key": "SNS"
+    },
+    {
+     "no": 2,
+     "member": "Lidija Đorđević",
+     "deputy": "Sabina Đorđević",
+     "list": "Ivica Dačić – Faktor stabilnosti (SPS, JS, SDPS, Zeleni Srbije)",
+     "key": "SPS"
+    },
+    {
+     "no": 3,
+     "member": "Nebojša Deljanin",
+     "deputy": "Branimir Miletić",
+     "list": "Studentska lista – Studenti pobeđuju",
+     "key": "STUD"
+    },
+    {
+     "no": 4,
+     "member": "Ivana Tanasković",
+     "deputy": "Blagoje Dragojlović",
+     "list": "Rasim Ljajić – Ljudski (SDP – CDP)",
+     "key": "LJAJIC"
+    },
+    {
+     "no": 5,
+     "member": "Slađana Đorđević",
+     "deputy": "Bojan Dragojević",
+     "list": "Savez vojvođanskih Mađara – dr Balint Pastor",
+     "key": "SVM"
+    },
+    {
+     "no": 6,
+     "member": "Miljana Đinović",
+     "deputy": "Zvonimir Milenković",
+     "list": "Ruska stranka – Srbija u BRIKS-u – Slobodan Nikolić",
+     "key": "RUSKA"
+    },
+    {
+     "no": 8,
+     "member": "Milena Obradović",
+     "deputy": "Dušanka Vukadinović",
+     "list": "Evropska Srbija – Marinika Tepić – Zdravko Ponoš",
+     "key": "EVROSRB"
+    },
+    {
+     "no": 10,
+     "member": "Jasmina Tomić",
+     "deputy": "Bojana Milosavljević",
+     "list": "Liberalno zelena stranka – za slobodnu i čistiju Srbiju",
+     "key": "LZS"
+    },
+    {
+     "no": 11,
+     "member": "Lidija Milutinović",
+     "deputy": "Jelena Belošević",
+     "list": "Ćale ovo je za tebe – Petar Đurić – premijer Srbije",
+     "key": "DJURIC"
+    },
+    {
+     "no": 12,
+     "member": "Mirela Dragićević",
+     "deputy": "Srđan Radisavljević",
+     "list": "Vladimir Gajić – Alternativa za Srbiju – Narodna stranka",
+     "key": "GAJIC"
+    }
+   ]
+  },
+  "bm19": {
+   "stalni": [
+    {
+     "role": "predsednik",
+     "name": "Slavica Obradović",
+     "by": "Poslanička grupa Pokret slobodnih građana (PSG) – Stranka demokratske akcije",
+     "key": "PSG"
+    },
+    {
+     "role": "zamenik predsednika",
+     "name": "Vladimir Maksimović",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    },
+    {
+     "role": "1. član",
+     "name": "Sanja Simić",
+     "by": "Načelnik Opštinske uprave",
+     "key": "ADMIN"
+    },
+    {
+     "role": "zamenik 1. člana",
+     "name": "Žarko Đokić",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    },
+    {
+     "role": "2. član",
+     "name": "Marija Vitorović",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    },
+    {
+     "role": "zamenik 2. člana",
+     "name": "Vladan Jovanović",
+     "by": "Poslanička grupa Poslanici uz studente: za kontrolu izbora",
+     "key": "STUD"
+    }
+   ],
+   "prosireni": [
+    {
+     "no": 1,
+     "member": "Vesna Šindić",
+     "deputy": "Irena Milovanović",
+     "list": "Aleksandar Vučić – Ujedinjena Srbija",
+     "key": "SNS"
+    },
+    {
+     "no": 2,
+     "member": "Svetislav Gašić",
+     "deputy": "Katarina Jelić",
+     "list": "Ivica Dačić – Faktor stabilnosti (SPS, JS, SDPS, Zeleni Srbije)",
+     "key": "SPS"
+    },
+    {
+     "no": 3,
+     "member": "Saša Banović",
+     "deputy": "Srđan Avramović",
+     "list": "Studentska lista – Studenti pobeđuju",
+     "key": "STUD"
+    },
+    {
+     "no": 4,
+     "member": "Vesna Lazić",
+     "deputy": "Radič Vukićević",
+     "list": "Rasim Ljajić – Ljudski (SDP – CDP)",
+     "key": "LJAJIC"
+    },
+    {
+     "no": 5,
+     "member": "Milena Smilić",
+     "deputy": "Slađana Radovanović",
+     "list": "Savez vojvođanskih Mađara – dr Balint Pastor",
+     "key": "SVM"
+    },
+    {
+     "no": 6,
+     "member": "Aleksandra Stevanović",
+     "deputy": "Rade Vučković",
+     "list": "Ruska stranka – Srbija u BRIKS-u – Slobodan Nikolić",
+     "key": "RUSKA"
+    },
+    {
+     "no": 7,
+     "member": "Dragan Jovanović",
+     "deputy": null,
+     "list": "Autentična desnica – dr Miloš Jovanović (Novi DSS – Monarhisti – NADA)",
+     "key": "AUTDES"
+    },
+    {
+     "no": 8,
+     "member": "Milanka Obradović",
+     "deputy": "Milan Obradović",
+     "list": "Evropska Srbija – Marinika Tepić – Zdravko Ponoš",
+     "key": "EVROSRB"
+    },
+    {
+     "no": 10,
+     "member": "Uroš Šulović",
+     "deputy": "Ivana Veličković",
+     "list": "Liberalno zelena stranka – za slobodnu i čistiju Srbiju",
+     "key": "LZS"
+    },
+    {
+     "no": 11,
+     "member": "Strahinja Nikolić",
+     "deputy": "Gordana Gavrilović",
+     "list": "Ćale ovo je za tebe – Petar Đurić – premijer Srbije",
+     "key": "DJURIC"
+    },
+    {
+     "no": 12,
+     "member": "Nadica Ćirković",
+     "deputy": "Jovana Šindić",
+     "list": "Vladimir Gajić – Alternativa za Srbiju – Narodna stranka",
+     "key": "GAJIC"
+    }
+   ]
+  },
+  "bm20": {
+   "stalni": [
+    {
+     "role": "predsednik",
+     "name": "Sanela Jeremić",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    },
+    {
+     "role": "zamenik predsednika",
+     "name": "Smiljana Tanasković",
+     "by": "Poslanička grupa Stranka slobode i pravde",
+     "key": "SSP"
+    },
+    {
+     "role": "1. član",
+     "name": "Radomir Milenković",
+     "by": "Poslanička grupa Narodni pokret Srbije – Novo lice Srbije",
+     "key": "NPS"
+    },
+    {
+     "role": "zamenik 1. člana",
+     "name": "Darko Jeremić",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    },
+    {
+     "role": "2. član",
+     "name": "Marija Đorđević Jelić",
+     "by": "Načelnik Opštinske uprave",
+     "key": "ADMIN"
+    },
+    {
+     "role": "zamenik 2. člana",
+     "name": "Vladimir Cvetković",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    }
+   ],
+   "prosireni": [
+    {
+     "no": 1,
+     "member": "Milan Milenković",
+     "deputy": "Gordana Stamenković",
+     "list": "Aleksandar Vučić – Ujedinjena Srbija",
+     "key": "SNS"
+    },
+    {
+     "no": 2,
+     "member": "Radoica Milosavljević",
+     "deputy": "Slađan Filipović",
+     "list": "Ivica Dačić – Faktor stabilnosti (SPS, JS, SDPS, Zeleni Srbije)",
+     "key": "SPS"
+    },
+    {
+     "no": 3,
+     "member": "Zorica Milosavljević",
+     "deputy": "Bojan Milosavljević",
+     "list": "Studentska lista – Studenti pobeđuju",
+     "key": "STUD"
+    },
+    {
+     "no": 4,
+     "member": "Vladimir Jeremić",
+     "deputy": "Marko Jeremić",
+     "list": "Rasim Ljajić – Ljudski (SDP – CDP)",
+     "key": "LJAJIC"
+    },
+    {
+     "no": 5,
+     "member": "Dejan Šmigić",
+     "deputy": "Jugoslav Kostić",
+     "list": "Savez vojvođanskih Mađara – dr Balint Pastor",
+     "key": "SVM"
+    },
+    {
+     "no": 6,
+     "member": "Branimir Anđelković",
+     "deputy": "Jovica Šabanović",
+     "list": "Ruska stranka – Srbija u BRIKS-u – Slobodan Nikolić",
+     "key": "RUSKA"
+    },
+    {
+     "no": 7,
+     "member": "Danica Filipović",
+     "deputy": null,
+     "list": "Autentična desnica – dr Miloš Jovanović (Novi DSS – Monarhisti – NADA)",
+     "key": "AUTDES"
+    },
+    {
+     "no": 8,
+     "member": "Sandra Mirković",
+     "deputy": "Snežana Tanasković",
+     "list": "Evropska Srbija – Marinika Tepić – Zdravko Ponoš",
+     "key": "EVROSRB"
+    },
+    {
+     "no": 10,
+     "member": "Andrija Jeremić",
+     "deputy": "Anđela Jeremić",
+     "list": "Liberalno zelena stranka – za slobodnu i čistiju Srbiju",
+     "key": "LZS"
+    },
+    {
+     "no": 11,
+     "member": "Olivera Jeremić",
+     "deputy": "Miloš Marinković",
+     "list": "Ćale ovo je za tebe – Petar Đurić – premijer Srbije",
+     "key": "DJURIC"
+    },
+    {
+     "no": 12,
+     "member": "Snežana Marinković",
+     "deputy": "Ljubomir Marinković",
+     "list": "Vladimir Gajić – Alternativa za Srbiju – Narodna stranka",
+     "key": "GAJIC"
+    }
+   ]
+  },
+  "bm21": {
+   "stalni": [
+    {
+     "role": "predsednik",
+     "name": "Miladin Đorđević",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    },
+    {
+     "role": "zamenik predsednika",
+     "name": "Danijel Mihajlović",
+     "by": "Poslanička grupa Poslanici uz studente: za kontrolu izbora",
+     "key": "STUD"
+    },
+    {
+     "role": "1. član",
+     "name": "Dragica Vučković",
+     "by": "Poslanička grupa Pokret slobodnih građana (PSG) – Stranka demokratske akcije",
+     "key": "PSG"
+    },
+    {
+     "role": "zamenik 1. člana",
+     "name": "Goran Pantović",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    },
+    {
+     "role": "2. član",
+     "name": "Nemanja Nikolić",
+     "by": "Poslanička grupa Stranka slobode i pravde",
+     "key": "SSP"
+    },
+    {
+     "role": "zamenik 2. člana",
+     "name": "Vesna Milosavljević",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    }
+   ],
+   "prosireni": [
+    {
+     "no": 1,
+     "member": "Milorad Filipović",
+     "deputy": "Slaviša Martinović",
+     "list": "Aleksandar Vučić – Ujedinjena Srbija",
+     "key": "SNS"
+    },
+    {
+     "no": 2,
+     "member": "Ana Milošević",
+     "deputy": "Nenad Milošević",
+     "list": "Ivica Dačić – Faktor stabilnosti (SPS, JS, SDPS, Zeleni Srbije)",
+     "key": "SPS"
+    },
+    {
+     "no": 3,
+     "member": "Zoran Đurić",
+     "deputy": "Nemanja Mihajlović",
+     "list": "Studentska lista – Studenti pobeđuju",
+     "key": "STUD"
+    },
+    {
+     "no": 4,
+     "member": "Milošin Todorović",
+     "deputy": "Radoje Petković",
+     "list": "Rasim Ljajić – Ljudski (SDP – CDP)",
+     "key": "LJAJIC"
+    },
+    {
+     "no": 5,
+     "member": "Julka Pantović",
+     "deputy": "Milomir Šapić",
+     "list": "Savez vojvođanskih Mađara – dr Balint Pastor",
+     "key": "SVM"
+    },
+    {
+     "no": 6,
+     "member": "Golub Radovanović",
+     "deputy": "Danijela Novaković",
+     "list": "Ruska stranka – Srbija u BRIKS-u – Slobodan Nikolić",
+     "key": "RUSKA"
+    },
+    {
+     "no": 7,
+     "member": "Dragan Pavlović",
+     "deputy": null,
+     "list": "Autentična desnica – dr Miloš Jovanović (Novi DSS – Monarhisti – NADA)",
+     "key": "AUTDES"
+    },
+    {
+     "no": 8,
+     "member": "Zoran Jovanović",
+     "deputy": "Srđan Milovanović",
+     "list": "Evropska Srbija – Marinika Tepić – Zdravko Ponoš",
+     "key": "EVROSRB"
+    },
+    {
+     "no": 10,
+     "member": "Radovan Todorović",
+     "deputy": "Suzana Miletić Todorović",
+     "list": "Liberalno zelena stranka – za slobodnu i čistiju Srbiju",
+     "key": "LZS"
+    },
+    {
+     "no": 11,
+     "member": "Ana Milosavljević",
+     "deputy": "Saša Pršić",
+     "list": "Ćale ovo je za tebe – Petar Đurić – premijer Srbije",
+     "key": "DJURIC"
+    },
+    {
+     "no": 12,
+     "member": "Slavica Milićević",
+     "deputy": null,
+     "list": "Vladimir Gajić – Alternativa za Srbiju – Narodna stranka",
+     "key": "GAJIC"
+    }
+   ]
+  },
+  "bm22": {
+   "stalni": [
+    {
+     "role": "predsednik",
+     "name": "Dragan Pantović",
+     "by": "Načelnik Opštinske uprave",
+     "key": "ADMIN"
+    },
+    {
+     "role": "zamenik predsednika",
+     "name": "Proko Pantović",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    },
+    {
+     "role": "1. član",
+     "name": "Mirko Đorđević",
+     "by": "Poslanička grupa Ekološki ustanak",
+     "key": "EU"
+    },
+    {
+     "role": "zamenik 1. člana",
+     "name": "Radoljub Milošević",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    },
+    {
+     "role": "2. član",
+     "name": "Ivan Pantović",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    },
+    {
+     "role": "zamenik 2. člana",
+     "name": "Saša Mikanović",
+     "by": "Poslanička grupa Stranka slobode i pravde",
+     "key": "SSP"
+    }
+   ],
+   "prosireni": [
+    {
+     "no": 1,
+     "member": "Miloš Milošević",
+     "deputy": "Vuksan Račić",
+     "list": "Aleksandar Vučić – Ujedinjena Srbija",
+     "key": "SNS"
+    },
+    {
+     "no": 2,
+     "member": "Vuk Novaković",
+     "deputy": "Biljana Jakovljević",
+     "list": "Ivica Dačić – Faktor stabilnosti (SPS, JS, SDPS, Zeleni Srbije)",
+     "key": "SPS"
+    },
+    {
+     "no": 3,
+     "member": "Lazar Vukašinović",
+     "deputy": "Olivera Krivokapić",
+     "list": "Studentska lista – Studenti pobeđuju",
+     "key": "STUD"
+    },
+    {
+     "no": 4,
+     "member": "Radoslav Pantović",
+     "deputy": "Ljubinko Perišić",
+     "list": "Rasim Ljajić – Ljudski (SDP – CDP)",
+     "key": "LJAJIC"
+    },
+    {
+     "no": 5,
+     "member": "Jovan Milošević",
+     "deputy": "Svetislav Novaković",
+     "list": "Savez vojvođanskih Mađara – dr Balint Pastor",
+     "key": "SVM"
+    },
+    {
+     "no": 6,
+     "member": "Slavoljub Pantović",
+     "deputy": "Dejan Radovanović",
+     "list": "Ruska stranka – Srbija u BRIKS-u – Slobodan Nikolić",
+     "key": "RUSKA"
+    },
+    {
+     "no": 7,
+     "member": "Nikola Vučetić",
+     "deputy": null,
+     "list": "Autentična desnica – dr Miloš Jovanović (Novi DSS – Monarhisti – NADA)",
+     "key": "AUTDES"
+    },
+    {
+     "no": 8,
+     "member": "Ljiljana Vranić",
+     "deputy": "Dejan Radojević",
+     "list": "Evropska Srbija – Marinika Tepić – Zdravko Ponoš",
+     "key": "EVROSRB"
+    },
+    {
+     "no": 10,
+     "member": "Milorad Đalović",
+     "deputy": "Marko Martinović",
+     "list": "Liberalno zelena stranka – za slobodnu i čistiju Srbiju",
+     "key": "LZS"
+    },
+    {
+     "no": 11,
+     "member": "Marko Poledica",
+     "deputy": "Radovan Todosijević",
+     "list": "Ćale ovo je za tebe – Petar Đurić – premijer Srbije",
+     "key": "DJURIC"
+    }
+   ]
+  },
+  "bm23": {
+   "stalni": [
+    {
+     "role": "predsednik",
+     "name": "Ivana Milojević",
+     "by": "Poslanička grupa Zeleno-levi front – Ne davimo Beograd",
+     "key": "ZLF"
+    },
+    {
+     "role": "zamenik predsednika",
+     "name": "Dušan Nikolić",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    },
+    {
+     "role": "1. član",
+     "name": "Nenad Miletić",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    },
+    {
+     "role": "zamenik 1. člana",
+     "name": "Mirko Ristić",
+     "by": "Poslanička grupa Savez vojvođanskih Mađara",
+     "key": "SVM"
+    },
+    {
+     "role": "2. član",
+     "name": "Marija Jovanović",
+     "by": "Poslanička grupa IVICA DAČIĆ – Socijalistička partija Srbije (SPS)",
+     "key": "SPS"
+    },
+    {
+     "role": "zamenik 2. člana",
+     "name": "Gradimir Kuzmanović",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    }
+   ],
+   "prosireni": [
+    {
+     "no": 1,
+     "member": "Radiša Pantović",
+     "deputy": "Đorđe Radovanović",
+     "list": "Aleksandar Vučić – Ujedinjena Srbija",
+     "key": "SNS"
+    },
+    {
+     "no": 2,
+     "member": "Ljubinko Mihajlović",
+     "deputy": "Jasmina Mihajlović",
+     "list": "Ivica Dačić – Faktor stabilnosti (SPS, JS, SDPS, Zeleni Srbije)",
+     "key": "SPS"
+    },
+    {
+     "no": 3,
+     "member": "Janko Kostić",
+     "deputy": "Bogdan Jauković",
+     "list": "Studentska lista – Studenti pobeđuju",
+     "key": "STUD"
+    },
+    {
+     "no": 4,
+     "member": "Slavica Smiljković",
+     "deputy": "Marija Poledica",
+     "list": "Rasim Ljajić – Ljudski (SDP – CDP)",
+     "key": "LJAJIC"
+    },
+    {
+     "no": 5,
+     "member": "Nikola Radovanović",
+     "deputy": "Đorđe Martinović",
+     "list": "Savez vojvođanskih Mađara – dr Balint Pastor",
+     "key": "SVM"
+    },
+    {
+     "no": 6,
+     "member": "Miloš Martinović",
+     "deputy": "Blagoje Pantović",
+     "list": "Ruska stranka – Srbija u BRIKS-u – Slobodan Nikolić",
+     "key": "RUSKA"
+    },
+    {
+     "no": 7,
+     "member": "Milica Vučetić",
+     "deputy": "Marija Eraković",
+     "list": "Autentična desnica – dr Miloš Jovanović (Novi DSS – Monarhisti – NADA)",
+     "key": "AUTDES"
+    },
+    {
+     "no": 8,
+     "member": "Lela Nikolić",
+     "deputy": "Suzana Milovanović",
+     "list": "Evropska Srbija – Marinika Tepić – Zdravko Ponoš",
+     "key": "EVROSRB"
+    },
+    {
+     "no": 10,
+     "member": "Milica Todorović",
+     "deputy": "Vladimir Kuzmanović",
+     "list": "Liberalno zelena stranka – za slobodnu i čistiju Srbiju",
+     "key": "LZS"
+    },
+    {
+     "no": 11,
+     "member": "Milan Poledica",
+     "deputy": null,
+     "list": "Ćale ovo je za tebe – Petar Đurić – premijer Srbije",
+     "key": "DJURIC"
+    },
+    {
+     "no": 12,
+     "member": "Zoran Nikolić",
+     "deputy": null,
+     "list": "Vladimir Gajić – Alternativa za Srbiju – Narodna stranka",
+     "key": "GAJIC"
+    }
+   ]
+  },
+  "bm24": {
+   "stalni": [
+    {
+     "role": "predsednik",
+     "name": "Slavica Eraković",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    },
+    {
+     "role": "zamenik predsednika",
+     "name": "Ranko Milić",
+     "by": "Poslanička grupa PUPS – solidarnost i pravda",
+     "key": "PUPS"
+    },
+    {
+     "role": "1. član",
+     "name": "Milić Radisav",
+     "by": "Poslanička grupa Stranka slobode i pravde",
+     "key": "SSP"
+    },
+    {
+     "role": "zamenik 1. člana",
+     "name": "Zorica Šejić",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    },
+    {
+     "role": "2. član",
+     "name": "Milomirka Bojović",
+     "by": "Poslanička grupa Novi DSS i Monarhisti – NADA",
+     "key": "NADA"
+    },
+    {
+     "role": "zamenik 2. člana",
+     "name": "Milica Perović",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    }
+   ],
+   "prosireni": [
+    {
+     "no": 1,
+     "member": "Radomir Milutinović",
+     "deputy": "Radosav Ilić",
+     "list": "Aleksandar Vučić – Ujedinjena Srbija",
+     "key": "SNS"
+    },
+    {
+     "no": 2,
+     "member": "Vukica Šapić",
+     "deputy": "Dušan Jovanović",
+     "list": "Ivica Dačić – Faktor stabilnosti (SPS, JS, SDPS, Zeleni Srbije)",
+     "key": "SPS"
+    },
+    {
+     "no": 3,
+     "member": "Milijana Milenković",
+     "deputy": "Stanimirka Milić",
+     "list": "Studentska lista – Studenti pobeđuju",
+     "key": "STUD"
+    },
+    {
+     "no": 4,
+     "member": "Verica Radovanović",
+     "deputy": "Miroslav Radunović",
+     "list": "Rasim Ljajić – Ljudski (SDP – CDP)",
+     "key": "LJAJIC"
+    },
+    {
+     "no": 5,
+     "member": "Biserka Petrović",
+     "deputy": "Ljiljana Mijajlović",
+     "list": "Savez vojvođanskih Mađara – dr Balint Pastor",
+     "key": "SVM"
+    },
+    {
+     "no": 6,
+     "member": "Radunka Todorović",
+     "deputy": "Sanja Todorović",
+     "list": "Ruska stranka – Srbija u BRIKS-u – Slobodan Nikolić",
+     "key": "RUSKA"
+    },
+    {
+     "no": 8,
+     "member": "Radoslav Milić",
+     "deputy": "Danijela Novaković",
+     "list": "Evropska Srbija – Marinika Tepić – Zdravko Ponoš",
+     "key": "EVROSRB"
+    },
+    {
+     "no": 10,
+     "member": "Radovan Radunović",
+     "deputy": "Radoslav Vasiljević",
+     "list": "Liberalno zelena stranka – za slobodnu i čistiju Srbiju",
+     "key": "LZS"
+    },
+    {
+     "no": 11,
+     "member": "Verica Šejić",
+     "deputy": "Marica Ilić",
+     "list": "Ćale ovo je za tebe – Petar Đurić – premijer Srbije",
+     "key": "DJURIC"
+    },
+    {
+     "no": 12,
+     "member": "Radmila Milenković",
+     "deputy": "Marija Milenković",
+     "list": "Vladimir Gajić – Alternativa za Srbiju – Narodna stranka",
+     "key": "GAJIC"
+    }
+   ]
+  },
+  "bm25": {
+   "stalni": [
+    {
+     "role": "predsednik",
+     "name": "Ivan Jovanović",
+     "by": "Poslanička grupa Poslanici uz studente: za kontrolu izbora",
+     "key": "STUD"
+    },
+    {
+     "role": "zamenik predsednika",
+     "name": "Srđan Milovanović",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    },
+    {
+     "role": "1. član",
+     "name": "Jovana Biočanin",
+     "by": "Poslanička grupa SRBIJA CENTAR – SRCE",
+     "key": "SRCE"
+    },
+    {
+     "role": "zamenik 1. člana",
+     "name": "Nebojša Milovanović",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    },
+    {
+     "role": "2. član",
+     "name": "Sreten Biočanin",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    },
+    {
+     "role": "zamenik 2. člana",
+     "name": "Đorđe Vukadinović",
+     "by": "Poslanička grupa Dragan Marković Palma – Jedinstvena Srbija",
+     "key": "JS"
+    }
+   ],
+   "prosireni": [
+    {
+     "no": 1,
+     "member": "Nikola Biočanin",
+     "deputy": "Savo Došović",
+     "list": "Aleksandar Vučić – Ujedinjena Srbija",
+     "key": "SNS"
+    },
+    {
+     "no": 2,
+     "member": "Marijana Radosavljević",
+     "deputy": "Veliša Marković",
+     "list": "Ivica Dačić – Faktor stabilnosti (SPS, JS, SDPS, Zeleni Srbije)",
+     "key": "SPS"
+    },
+    {
+     "no": 3,
+     "member": "Pavle Milićević",
+     "deputy": "Petar Milićević",
+     "list": "Studentska lista – Studenti pobeđuju",
+     "key": "STUD"
+    },
+    {
+     "no": 4,
+     "member": "Leposava Biočanin",
+     "deputy": "Milomir Šćepanović",
+     "list": "Rasim Ljajić – Ljudski (SDP – CDP)",
+     "key": "LJAJIC"
+    },
+    {
+     "no": 5,
+     "member": "Ivica Vukadinović",
+     "deputy": "Jovana Milovanović",
+     "list": "Savez vojvođanskih Mađara – dr Balint Pastor",
+     "key": "SVM"
+    },
+    {
+     "no": 6,
+     "member": "Ilija Milovanović",
+     "deputy": "Milivoje Milačić",
+     "list": "Ruska stranka – Srbija u BRIKS-u – Slobodan Nikolić",
+     "key": "RUSKA"
+    },
+    {
+     "no": 10,
+     "member": "Anđela Miletić",
+     "deputy": "Luka Milunović",
+     "list": "Liberalno zelena stranka – za slobodnu i čistiju Srbiju",
+     "key": "LZS"
+    },
+    {
+     "no": 11,
+     "member": "Milutin Bućković",
+     "deputy": "Slavica Milovanović",
+     "list": "Ćale ovo je za tebe – Petar Đurić – premijer Srbije",
+     "key": "DJURIC"
+    }
+   ]
+  },
+  "bm26": {
+   "stalni": [
+    {
+     "role": "predsednik",
+     "name": "Goran Garić",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    },
+    {
+     "role": "zamenik predsednika",
+     "name": "Dragana Garić",
+     "by": "Načelnik Opštinske uprave",
+     "key": "ADMIN"
+    },
+    {
+     "role": "1. član",
+     "name": "Radoslav Vuković",
+     "by": "Poslanička grupa Stranka slobode i pravde",
+     "key": "SSP"
+    },
+    {
+     "role": "zamenik 1. člana",
+     "name": "Dragan Milačić",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    },
+    {
+     "role": "2. član",
+     "name": "Milosav Timotijević",
+     "by": "Poslanička grupa Narodni pokret Srbije – Novo lice Srbije",
+     "key": "NPS"
+    },
+    {
+     "role": "zamenik 2. člana",
+     "name": "Dušan Milačić",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    }
+   ],
+   "prosireni": [
+    {
+     "no": 1,
+     "member": "Gojko Stefanović",
+     "deputy": "Radonja Kujović",
+     "list": "Aleksandar Vučić – Ujedinjena Srbija",
+     "key": "SNS"
+    },
+    {
+     "no": 2,
+     "member": "Teodora Stefanović",
+     "deputy": "Slavica Vukašinović",
+     "list": "Ivica Dačić – Faktor stabilnosti (SPS, JS, SDPS, Zeleni Srbije)",
+     "key": "SPS"
+    },
+    {
+     "no": 3,
+     "member": "Ljubisav Račić",
+     "deputy": "Nikola Dimitrijević",
+     "list": "Studentska lista – Studenti pobeđuju",
+     "key": "STUD"
+    },
+    {
+     "no": 4,
+     "member": "Elena Perovanović",
+     "deputy": "Marko Radović",
+     "list": "Rasim Ljajić – Ljudski (SDP – CDP)",
+     "key": "LJAJIC"
+    },
+    {
+     "no": 5,
+     "member": "Slaviša Milićević",
+     "deputy": "Slavica Garić",
+     "list": "Savez vojvođanskih Mađara – dr Balint Pastor",
+     "key": "SVM"
+    },
+    {
+     "no": 6,
+     "member": "Danilo Došović",
+     "deputy": "Milorad Kujović",
+     "list": "Ruska stranka – Srbija u BRIKS-u – Slobodan Nikolić",
+     "key": "RUSKA"
+    },
+    {
+     "no": 7,
+     "member": "Srećko Ilić",
+     "deputy": null,
+     "list": "Autentična desnica – dr Miloš Jovanović (Novi DSS – Monarhisti – NADA)",
+     "key": "AUTDES"
+    },
+    {
+     "no": 10,
+     "member": "Marko Milićević",
+     "deputy": "Biljana Stefanović",
+     "list": "Liberalno zelena stranka – za slobodnu i čistiju Srbiju",
+     "key": "LZS"
+    },
+    {
+     "no": 11,
+     "member": "Dalibor Milošević",
+     "deputy": "Milorad Vukašinović",
+     "list": "Ćale ovo je za tebe – Petar Đurić – premijer Srbije",
+     "key": "DJURIC"
+    }
+   ]
+  },
+  "bm27": {
+   "stalni": [
+    {
+     "role": "predsednik",
+     "name": "Jasmina Jovanović",
+     "by": "Poslanička grupa Poslanici uz studente: za kontrolu izbora",
+     "key": "STUD"
+    },
+    {
+     "role": "zamenik predsednika",
+     "name": "Bojan Savić",
+     "by": "Poslanička grupa Novi DSS i Monarhisti – NADA",
+     "key": "NADA"
+    },
+    {
+     "role": "1. član",
+     "name": "Aleksa Milenković",
+     "by": "Poslanička grupa Narodni pokret Srbije – Novo lice Srbije",
+     "key": "NPS"
+    },
+    {
+     "role": "zamenik 1. člana",
+     "name": "Milan Simović",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    },
+    {
+     "role": "2. član",
+     "name": "Dušan Zdravković",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    },
+    {
+     "role": "zamenik 2. člana",
+     "name": "Ivanka Vasić",
+     "by": "Načelnik Opštinske uprave",
+     "key": "ADMIN"
+    }
+   ],
+   "prosireni": [
+    {
+     "no": 1,
+     "member": "Vladan Deljanin",
+     "deputy": "Evica Radonjić",
+     "list": "Aleksandar Vučić – Ujedinjena Srbija",
+     "key": "SNS"
+    },
+    {
+     "no": 2,
+     "member": "Stefan Stevanović",
+     "deputy": "Danijela Dramićanin",
+     "list": "Ivica Dačić – Faktor stabilnosti (SPS, JS, SDPS, Zeleni Srbije)",
+     "key": "SPS"
+    },
+    {
+     "no": 3,
+     "member": "Olgica Pavlović Punišić",
+     "deputy": "Aleksandar Punišić",
+     "list": "Studentska lista – Studenti pobeđuju",
+     "key": "STUD"
+    },
+    {
+     "no": 4,
+     "member": "Ivan Janić",
+     "deputy": "Dragoljub Đorđević",
+     "list": "Rasim Ljajić – Ljudski (SDP – CDP)",
+     "key": "LJAJIC"
+    },
+    {
+     "no": 5,
+     "member": "Radojka Vasiljević",
+     "deputy": "Miladinka Radovanović",
+     "list": "Savez vojvođanskih Mađara – dr Balint Pastor",
+     "key": "SVM"
+    },
+    {
+     "no": 6,
+     "member": "Katarina Tanasković",
+     "deputy": "Anica Deljanin",
+     "list": "Ruska stranka – Srbija u BRIKS-u – Slobodan Nikolić",
+     "key": "RUSKA"
+    },
+    {
+     "no": 8,
+     "member": "Rade Mitrović",
+     "deputy": "Marica Milenković",
+     "list": "Evropska Srbija – Marinika Tepić – Zdravko Ponoš",
+     "key": "EVROSRB"
+    },
+    {
+     "no": 10,
+     "member": "Aleksandar Arsić",
+     "deputy": "Luka Nikolić",
+     "list": "Liberalno zelena stranka – za slobodnu i čistiju Srbiju",
+     "key": "LZS"
+    },
+    {
+     "no": 11,
+     "member": "Danijela Bogdanović",
+     "deputy": "Darko Stević",
+     "list": "Ćale ovo je za tebe – Petar Đurić – premijer Srbije",
+     "key": "DJURIC"
+    },
+    {
+     "no": 12,
+     "member": "Biljana Savić",
+     "deputy": "Časlav Milićević",
+     "list": "Vladimir Gajić – Alternativa za Srbiju – Narodna stranka",
+     "key": "GAJIC"
+    }
+   ]
+  },
+  "bm28": {
+   "stalni": [
+    {
+     "role": "predsednik",
+     "name": "Milan Milovanović",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    },
+    {
+     "role": "zamenik predsednika",
+     "name": "Nebojša Ratković",
+     "by": "Poslanička grupa Savez vojvođanskih Mađara",
+     "key": "SVM"
+    },
+    {
+     "role": "1. član",
+     "name": "Verica Milenković",
+     "by": "Poslanička grupa Novi DSS i Monarhisti – NADA",
+     "key": "NADA"
+    },
+    {
+     "role": "zamenik 1. člana",
+     "name": "Mirjana Deljanin",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    },
+    {
+     "role": "2. član",
+     "name": "Svetlana Lazarević",
+     "by": "Poslanička grupa Narodni pokret Srbije – Novo lice Srbije",
+     "key": "NPS"
+    },
+    {
+     "role": "zamenik 2. člana",
+     "name": "Ivan Deljanin",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    }
+   ],
+   "prosireni": [
+    {
+     "no": 1,
+     "member": "Goran Arsić",
+     "deputy": "Snežana Tanasković",
+     "list": "Aleksandar Vučić – Ujedinjena Srbija",
+     "key": "SNS"
+    },
+    {
+     "no": 2,
+     "member": "Milovan Tanasković",
+     "deputy": "Slavoljub Savić",
+     "list": "Ivica Dačić – Faktor stabilnosti (SPS, JS, SDPS, Zeleni Srbije)",
+     "key": "SPS"
+    },
+    {
+     "no": 3,
+     "member": "Dragiša Milenković",
+     "deputy": "Biljana Petković",
+     "list": "Studentska lista – Studenti pobeđuju",
+     "key": "STUD"
+    },
+    {
+     "no": 4,
+     "member": "Miljan Nedeljković",
+     "deputy": "Jovana Nedeljković",
+     "list": "Rasim Ljajić – Ljudski (SDP – CDP)",
+     "key": "LJAJIC"
+    },
+    {
+     "no": 5,
+     "member": "Aleksandra Jokanović",
+     "deputy": "Jelena Radoičić",
+     "list": "Savez vojvođanskih Mađara – dr Balint Pastor",
+     "key": "SVM"
+    },
+    {
+     "no": 6,
+     "member": "Dijana Zdravković",
+     "deputy": "Drgutin Filipović",
+     "list": "Ruska stranka – Srbija u BRIKS-u – Slobodan Nikolić",
+     "key": "RUSKA"
+    },
+    {
+     "no": 8,
+     "member": "Milica Stević",
+     "deputy": "Aleksandar Pavlović",
+     "list": "Evropska Srbija – Marinika Tepić – Zdravko Ponoš",
+     "key": "EVROSRB"
+    },
+    {
+     "no": 10,
+     "member": "Vanja Ilić",
+     "deputy": "Radojka Nikolić",
+     "list": "Liberalno zelena stranka – za slobodnu i čistiju Srbiju",
+     "key": "LZS"
+    },
+    {
+     "no": 11,
+     "member": "Ivana Milojević",
+     "deputy": "Miloje Agatonović",
+     "list": "Ćale ovo je za tebe – Petar Đurić – premijer Srbije",
+     "key": "DJURIC"
+    },
+    {
+     "no": 12,
+     "member": "Saša Vasić",
+     "deputy": "Marko Radonjić",
+     "list": "Vladimir Gajić – Alternativa za Srbiju – Narodna stranka",
+     "key": "GAJIC"
+    }
+   ]
+  },
+  "bm29": {
+   "stalni": [
+    {
+     "role": "predsednik",
+     "name": "Vlajko Ilić",
+     "by": "Poslanička grupa SRBIJA CENTAR – SRCE",
+     "key": "SRCE"
+    },
+    {
+     "role": "zamenik predsednika",
+     "name": "Đoko Miletić",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    },
+    {
+     "role": "1. član",
+     "name": "Ivana Vlašković",
+     "by": "Poslanička grupa Narodni pokret Srbije – Novo lice Srbije",
+     "key": "NPS"
+    },
+    {
+     "role": "zamenik 1. člana",
+     "name": "Zorica Miletić",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    },
+    {
+     "role": "2. član",
+     "name": "Branko Lakićević",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    },
+    {
+     "role": "zamenik 2. člana",
+     "name": "Radovan Jelić",
+     "by": "Poslanička grupa IVICA DAČIĆ – Socijalistička partija Srbije (SPS)",
+     "key": "SPS"
+    }
+   ],
+   "prosireni": [
+    {
+     "no": 1,
+     "member": "Milica Radović",
+     "deputy": "Dejan Lakićević",
+     "list": "Aleksandar Vučić – Ujedinjena Srbija",
+     "key": "SNS"
+    },
+    {
+     "no": 2,
+     "member": "Milivoje Tijanić",
+     "deputy": "Vojkan Radulović",
+     "list": "Ivica Dačić – Faktor stabilnosti (SPS, JS, SDPS, Zeleni Srbije)",
+     "key": "SPS"
+    },
+    {
+     "no": 3,
+     "member": "Mihajlo Vasiljević",
+     "deputy": "Kuzmanović Radislav",
+     "list": "Studentska lista – Studenti pobeđuju",
+     "key": "STUD"
+    },
+    {
+     "no": 4,
+     "member": "Miloš Miletić",
+     "deputy": "Zoran Mićunović",
+     "list": "Rasim Ljajić – Ljudski (SDP – CDP)",
+     "key": "LJAJIC"
+    },
+    {
+     "no": 5,
+     "member": "Radoslav Mrdelić",
+     "deputy": "Zora Milovanović",
+     "list": "Savez vojvođanskih Mađara – dr Balint Pastor",
+     "key": "SVM"
+    },
+    {
+     "no": 6,
+     "member": "Mile Tošković",
+     "deputy": "Miloš Tošković",
+     "list": "Ruska stranka – Srbija u BRIKS-u – Slobodan Nikolić",
+     "key": "RUSKA"
+    },
+    {
+     "no": 8,
+     "member": "Radunka Milutinović",
+     "deputy": null,
+     "list": "Evropska Srbija – Marinika Tepić – Zdravko Ponoš",
+     "key": "EVROSRB"
+    },
+    {
+     "no": 10,
+     "member": "Zoran Tijanić",
+     "deputy": "Zorica Đorđević",
+     "list": "Liberalno zelena stranka – za slobodnu i čistiju Srbiju",
+     "key": "LZS"
+    }
+   ]
+  },
+  "bm30": {
+   "stalni": [
+    {
+     "role": "predsednik",
+     "name": "Milanka Jović",
+     "by": "Načelnik Opštinske uprave",
+     "key": "ADMIN"
+    },
+    {
+     "role": "zamenik predsednika",
+     "name": "Slobodan Mijajlović",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    },
+    {
+     "role": "1. član",
+     "name": "Dragan Mijajlović",
+     "by": "Poslanička grupa Poslanici uz studente: za kontrolu izbora",
+     "key": "STUD"
+    },
+    {
+     "role": "zamenik 1. člana",
+     "name": "Julijana Radulović",
+     "by": "Poslanička grupa Savez vojvođanskih Mađara",
+     "key": "SVM"
+    },
+    {
+     "role": "2. član",
+     "name": "Dragan Mladenović",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    },
+    {
+     "role": "zamenik 2. člana",
+     "name": "Mirjana Panić",
+     "by": "Poslanička grupa Pokret slobodnih građana (PSG) – Stranka demokratske akcije",
+     "key": "PSG"
+    }
+   ],
+   "prosireni": [
+    {
+     "no": 1,
+     "member": "Milomir Simijonović",
+     "deputy": "Goran Matović",
+     "list": "Aleksandar Vučić – Ujedinjena Srbija",
+     "key": "SNS"
+    },
+    {
+     "no": 2,
+     "member": "Miloje Avramović",
+     "deputy": "Milkana Milanović",
+     "list": "Ivica Dačić – Faktor stabilnosti (SPS, JS, SDPS, Zeleni Srbije)",
+     "key": "SPS"
+    },
+    {
+     "no": 3,
+     "member": "Sanja Lazić",
+     "deputy": "Željko Andrijašević",
+     "list": "Studentska lista – Studenti pobeđuju",
+     "key": "STUD"
+    },
+    {
+     "no": 4,
+     "member": "Milutin Todorović",
+     "deputy": "Milan Todorović",
+     "list": "Rasim Ljajić – Ljudski (SDP – CDP)",
+     "key": "LJAJIC"
+    },
+    {
+     "no": 5,
+     "member": "Radoljub Jović",
+     "deputy": "Svetlana Ilić",
+     "list": "Savez vojvođanskih Mađara – dr Balint Pastor",
+     "key": "SVM"
+    },
+    {
+     "no": 6,
+     "member": "Zdravka Ristić",
+     "deputy": "Milan Milosavljević",
+     "list": "Ruska stranka – Srbija u BRIKS-u – Slobodan Nikolić",
+     "key": "RUSKA"
+    },
+    {
+     "no": 8,
+     "member": "Jovanka Pantić",
+     "deputy": "Živko Pantić",
+     "list": "Evropska Srbija – Marinika Tepić – Zdravko Ponoš",
+     "key": "EVROSRB"
+    },
+    {
+     "no": 10,
+     "member": "Zoran Bogdanović",
+     "deputy": "Predrag Vladisavljević",
+     "list": "Liberalno zelena stranka – za slobodnu i čistiju Srbiju",
+     "key": "LZS"
+    },
+    {
+     "no": 11,
+     "member": "Ivana Mladenović",
+     "deputy": "Prvoslav Ognjanović",
+     "list": "Ćale ovo je za tebe – Petar Đurić – premijer Srbije",
+     "key": "DJURIC"
+    },
+    {
+     "no": 12,
+     "member": "Dragiša Jovanović",
+     "deputy": "Gordana Radivojević",
+     "list": "Vladimir Gajić – Alternativa za Srbiju – Narodna stranka",
+     "key": "GAJIC"
+    }
+   ]
+  },
+  "bm31": {
+   "stalni": [
+    {
+     "role": "predsednik",
+     "name": "Milovan Simić",
+     "by": "Poslanička grupa PUPS – solidarnost i pravda",
+     "key": "PUPS"
+    },
+    {
+     "role": "zamenik predsednika",
+     "name": "Mirosava Radović",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    },
+    {
+     "role": "1. član",
+     "name": "Bojan Vukosavljević",
+     "by": "Poslanička grupa Zeleno-levi front – Ne davimo Beograd",
+     "key": "ZLF"
+    },
+    {
+     "role": "zamenik 1. člana",
+     "name": "Miloš Radović",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    },
+    {
+     "role": "2. član",
+     "name": "Marko Petronijević",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    },
+    {
+     "role": "zamenik 2. člana",
+     "name": "Jorgovanka Račić",
+     "by": "Načelnik Opštinske uprave",
+     "key": "ADMIN"
+    }
+   ],
+   "prosireni": [
+    {
+     "no": 1,
+     "member": "Dragana Petronijević",
+     "deputy": "Jovan Milikić",
+     "list": "Aleksandar Vučić – Ujedinjena Srbija",
+     "key": "SNS"
+    },
+    {
+     "no": 2,
+     "member": "Momir Mirković",
+     "deputy": "Nadica Stevanović",
+     "list": "Ivica Dačić – Faktor stabilnosti (SPS, JS, SDPS, Zeleni Srbije)",
+     "key": "SPS"
+    },
+    {
+     "no": 3,
+     "member": "Teodora Marinković",
+     "deputy": "Aleksandar Lukić",
+     "list": "Studentska lista – Studenti pobeđuju",
+     "key": "STUD"
+    },
+    {
+     "no": 4,
+     "member": "Kleopatra Đorđević",
+     "deputy": "Milorad Gočmanac",
+     "list": "Rasim Ljajić – Ljudski (SDP – CDP)",
+     "key": "LJAJIC"
+    },
+    {
+     "no": 5,
+     "member": "Jovan Gočmanac",
+     "deputy": "Goran Nerandžić",
+     "list": "Savez vojvođanskih Mađara – dr Balint Pastor",
+     "key": "SVM"
+    },
+    {
+     "no": 6,
+     "member": "Marija Milikić",
+     "deputy": "Dušan Gočmanac",
+     "list": "Ruska stranka – Srbija u BRIKS-u – Slobodan Nikolić",
+     "key": "RUSKA"
+    },
+    {
+     "no": 8,
+     "member": "Radojka Radović",
+     "deputy": null,
+     "list": "Evropska Srbija – Marinika Tepić – Zdravko Ponoš",
+     "key": "EVROSRB"
+    },
+    {
+     "no": 10,
+     "member": "Radivojka Dragović",
+     "deputy": "Mihajlo Mihajlović",
+     "list": "Liberalno zelena stranka – za slobodnu i čistiju Srbiju",
+     "key": "LZS"
+    },
+    {
+     "no": 11,
+     "member": "Vladica Gočmanac",
+     "deputy": "Marija Gočmanac",
+     "list": "Ćale ovo je za tebe – Petar Đurić – premijer Srbije",
+     "key": "DJURIC"
+    },
+    {
+     "no": 12,
+     "member": "Jovana Gočmanac",
+     "deputy": "Radovan Eraković",
+     "list": "Vladimir Gajić – Alternativa za Srbiju – Narodna stranka",
+     "key": "GAJIC"
+    }
+   ]
+  },
+  "bm32": {
+   "stalni": [
+    {
+     "role": "predsednik",
+     "name": "Andrijana Živković",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    },
+    {
+     "role": "zamenik predsednika",
+     "name": "Milun Jović",
+     "by": "Načelnik Opštinske uprave",
+     "key": "ADMIN"
+    },
+    {
+     "role": "1. član",
+     "name": "Nebojša Jovanović",
+     "by": "Poslanička grupa Novi DSS i Monarhisti – NADA",
+     "key": "NADA"
+    },
+    {
+     "role": "zamenik 1. člana",
+     "name": "Radica Živković",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    },
+    {
+     "role": "2. član",
+     "name": "Slađana Milojević",
+     "by": "Poslanička grupa Poslanici uz studente: za kontrolu izbora",
+     "key": "STUD"
+    },
+    {
+     "role": "zamenik 2. člana",
+     "name": "Dragan Živković",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    }
+   ],
+   "prosireni": [
+    {
+     "no": 1,
+     "member": "Dejan Živanović",
+     "deputy": "Dragica Živanović",
+     "list": "Aleksandar Vučić – Ujedinjena Srbija",
+     "key": "SNS"
+    },
+    {
+     "no": 2,
+     "member": "Slavica Vidić",
+     "deputy": "Predrag Vidić",
+     "list": "Ivica Dačić – Faktor stabilnosti (SPS, JS, SDPS, Zeleni Srbije)",
+     "key": "SPS"
+    },
+    {
+     "no": 3,
+     "member": "Predrag Ćurčić",
+     "deputy": "Jovana Petrović",
+     "list": "Studentska lista – Studenti pobeđuju",
+     "key": "STUD"
+    },
+    {
+     "no": 4,
+     "member": "Zorica Đinović",
+     "deputy": "Mileta Gojković",
+     "list": "Rasim Ljajić – Ljudski (SDP – CDP)",
+     "key": "LJAJIC"
+    },
+    {
+     "no": 5,
+     "member": "Marinko Vuković",
+     "deputy": "Nebojša Mrvić",
+     "list": "Savez vojvođanskih Mađara – dr Balint Pastor",
+     "key": "SVM"
+    },
+    {
+     "no": 6,
+     "member": "Nikola Živanović",
+     "deputy": "Nebojša Vuković",
+     "list": "Ruska stranka – Srbija u BRIKS-u – Slobodan Nikolić",
+     "key": "RUSKA"
+    },
+    {
+     "no": 8,
+     "member": "Mira Vuković",
+     "deputy": null,
+     "list": "Evropska Srbija – Marinika Tepić – Zdravko Ponoš",
+     "key": "EVROSRB"
+    },
+    {
+     "no": 10,
+     "member": "Dragana Simović",
+     "deputy": "Suzana Maksimović",
+     "list": "Liberalno zelena stranka – za slobodnu i čistiju Srbiju",
+     "key": "LZS"
+    }
+   ]
+  },
+  "bm33": {
+   "stalni": [
+    {
+     "role": "predsednik",
+     "name": "Stefan Đokić",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    },
+    {
+     "role": "zamenik predsednika",
+     "name": "Sanja Janićijević",
+     "by": "Poslanička grupa SRBIJA CENTAR – SRCE",
+     "key": "SRCE"
+    },
+    {
+     "role": "1. član",
+     "name": "Bratimir Tanasković",
+     "by": "Načelnik Opštinske uprave",
+     "key": "ADMIN"
+    },
+    {
+     "role": "zamenik 1. člana",
+     "name": "Dragić Spasojević",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    },
+    {
+     "role": "2. član",
+     "name": "Jasmina Milisivaljević",
+     "by": "Poslanička grupa Poslanici uz studente: za kontrolu izbora",
+     "key": "STUD"
+    },
+    {
+     "role": "zamenik 2. člana",
+     "name": "Vatroslav Aleksić",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    }
+   ],
+   "prosireni": [
+    {
+     "no": 1,
+     "member": "Milica Savić",
+     "deputy": "Milan Zdravković",
+     "list": "Aleksandar Vučić – Ujedinjena Srbija",
+     "key": "SNS"
+    },
+    {
+     "no": 2,
+     "member": "Miroljub Milunović",
+     "deputy": "Dragica Vukićević",
+     "list": "Ivica Dačić – Faktor stabilnosti!",
+     "key": "SPS"
+    },
+    {
+     "no": 3,
+     "member": "Strahinja Banović",
+     "deputy": "Lazar Milenković",
+     "list": "Studentska lista – Studenti pobeđuju",
+     "key": "STUD"
+    },
+    {
+     "no": 4,
+     "member": "Slobodan Mladenović",
+     "deputy": "Dragiša Vukadinović",
+     "list": "Rasim Ljajić – Ljudski (SDP – CDP)",
+     "key": "LJAJIC"
+    },
+    {
+     "no": 5,
+     "member": "Marija Maksimović",
+     "deputy": "Bojan Vukosavljević",
+     "list": "Savez vojvođanskih Mađara – dr Balint Pastor",
+     "key": "SVM"
+    },
+    {
+     "no": 6,
+     "member": "Dragoljub Stojanović",
+     "deputy": "Goran Milenković",
+     "list": "Ruska stranka – Srbija u BRIKSU – Slobodan Nikolić",
+     "key": "RUSKA"
+    },
+    {
+     "no": 8,
+     "member": "Gorica Milić",
+     "deputy": null,
+     "list": "Evropska Srbija – Marinika Tepić – Zdravko Ponoš",
+     "key": "EVROSRB"
+    },
+    {
+     "no": 10,
+     "member": "Radivoje Marković",
+     "deputy": "Vukoman Milenković",
+     "list": "Liberalno zelena stranka – za slobodnu i čistiju Srbiju",
+     "key": "LZS"
+    },
+    {
+     "no": 11,
+     "member": "Nikola Milenković",
+     "deputy": "Jelena Simonović",
+     "list": "Ćale ovo je za tebe – Petar Đurić – premijer Srbije",
+     "key": "DJURIC"
+    },
+    {
+     "no": 12,
+     "member": "Slavoljub Arsić",
+     "deputy": "Dobrivoje Milosavljević",
+     "list": "Vladimir Gajić – Alternativa za Srbiju",
+     "key": "GAJIC"
+    }
+   ]
+  },
+  "bm34": {
+   "stalni": [
+    {
+     "role": "predsednik",
+     "name": "Slobodan Milenković",
+     "by": "Poslanička grupa Novi DSS i Monarhisti – NADA",
+     "key": "NADA"
+    },
+    {
+     "role": "zamenik predsednika",
+     "name": "Dragoje Stepanović",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    },
+    {
+     "role": "1. član",
+     "name": "Nataša Kokanović",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    },
+    {
+     "role": "zamenik 1. člana",
+     "name": "Obrad Marković",
+     "by": "Poslanička grupa Stranka slobode i pravde",
+     "key": "SSP"
+    },
+    {
+     "role": "2. član",
+     "name": "Ivica Gajić",
+     "by": "Poslanička grupa Dragan Marković Palma – Jedinstvena Srbija",
+     "key": "JS"
+    },
+    {
+     "role": "zamenik 2. člana",
+     "name": "Dragan Todorović",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    }
+   ],
+   "prosireni": [
+    {
+     "no": 1,
+     "member": "Momir Gligorijević",
+     "deputy": "Anđelko Marjanović",
+     "list": "Aleksandar Vučić – Ujedinjena Srbija",
+     "key": "SNS"
+    },
+    {
+     "no": 2,
+     "member": "Rade Jović",
+     "deputy": "Milenko Nedeljković",
+     "list": "Ivica Dačić – Faktor stabilnosti!",
+     "key": "SPS"
+    },
+    {
+     "no": 3,
+     "member": "Dragoje Lazić",
+     "deputy": "Saša Matić",
+     "list": "Studentska lista – Studenti pobeđuju",
+     "key": "STUD"
+    },
+    {
+     "no": 4,
+     "member": "Saša Vojinović",
+     "deputy": "Zoran Ilić",
+     "list": "Rasim Ljajić – Ljudski (SDP – CDP)",
+     "key": "LJAJIC"
+    },
+    {
+     "no": 5,
+     "member": "Lazar Stevanović",
+     "deputy": "Marija Todorović",
+     "list": "Savez vojvođanskih Mađara – dr Balint Pastor",
+     "key": "SVM"
+    },
+    {
+     "no": 6,
+     "member": "Savko Nikolić",
+     "deputy": "Zoran Marjanović",
+     "list": "Ruska stranka – Srbija u BRIKSU – Slobodan Nikolić",
+     "key": "RUSKA"
+    },
+    {
+     "no": 8,
+     "member": "Milovan Milićević",
+     "deputy": null,
+     "list": "Evropska Srbija – Marinika Tepić – Zdravko Ponoš",
+     "key": "EVROSRB"
+    },
+    {
+     "no": 10,
+     "member": "Bojan Gašić",
+     "deputy": "Vesna Stepanović",
+     "list": "Liberalno zelena stranka – za slobodnu i čistiju Srbiju",
+     "key": "LZS"
+    },
+    {
+     "no": 11,
+     "member": "Đurđe Stevanović",
+     "deputy": null,
+     "list": "Ćale ovo je za tebe – Petar Đurić – premijer Srbije",
+     "key": "DJURIC"
+    }
+   ]
+  },
+  "bm35": {
+   "stalni": [
+    {
+     "role": "predsednik",
+     "name": "Milenko Stević",
+     "by": "Poslanička grupa Savez vojvođanskih Mađara",
+     "key": "SVM"
+    },
+    {
+     "role": "zamenik predsednika",
+     "name": "Milan Gilić",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    },
+    {
+     "role": "1. član",
+     "name": "Živorad Milić",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    },
+    {
+     "role": "zamenik 1. člana",
+     "name": "Stefan Đurović",
+     "by": "Poslanička grupa Pokret slobodnih građana (PSG) – Stranka demokratske akcije",
+     "key": "PSG"
+    },
+    {
+     "role": "2. član",
+     "name": "Živko Mitrović",
+     "by": "Poslanička grupa PUPS – solidarnost i pravda",
+     "key": "PUPS"
+    },
+    {
+     "role": "zamenik 2. člana",
+     "name": "Milija Gavrilović",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    }
+   ],
+   "prosireni": [
+    {
+     "no": 1,
+     "member": "Rade Milanović",
+     "deputy": "Siniša Miletić",
+     "list": "Aleksandar Vučić – Ujedinjena Srbija",
+     "key": "SNS"
+    },
+    {
+     "no": 2,
+     "member": "Dragoje Miletić",
+     "deputy": "Bojana Miletić",
+     "list": "Ivica Dačić – Faktor stabilnosti!",
+     "key": "SPS"
+    },
+    {
+     "no": 3,
+     "member": "Milena Stojković",
+     "deputy": "Marija Banović",
+     "list": "Studentska lista – Studenti pobeđuju",
+     "key": "STUD"
+    },
+    {
+     "no": 4,
+     "member": "Rajko Tanasković",
+     "deputy": "Dragoslav Smilić",
+     "list": "Rasim Ljajić – Ljudski (SDP – CDP)",
+     "key": "LJAJIC"
+    },
+    {
+     "no": 5,
+     "member": "Radivoje Simić",
+     "deputy": "Gordan Radisavljević",
+     "list": "Savez vojvođanskih Mađara – dr Balint Pastor",
+     "key": "SVM"
+    },
+    {
+     "no": 6,
+     "member": "Goran Filipović",
+     "deputy": "Radoljub Radisavljević",
+     "list": "Ruska stranka – Srbija u BRIKSU – Slobodan Nikolić",
+     "key": "RUSKA"
+    },
+    {
+     "no": 7,
+     "member": "Slavomir Milićević",
+     "deputy": null,
+     "list": "Autentična desnica – dr Miloš Jovanović",
+     "key": "AUTDES"
+    },
+    {
+     "no": 10,
+     "member": "Milica Gavrilović",
+     "deputy": "Vukašin Miletić",
+     "list": "Liberalno zelena stranka – za slobodnu i čistiju Srbiju",
+     "key": "LZS"
+    },
+    {
+     "no": 11,
+     "member": "Miloš Radisavljević",
+     "deputy": "Radosav Nešić",
+     "list": "Ćale ovo je za tebe – Petar Đurić – premijer Srbije",
+     "key": "DJURIC"
+    }
+   ]
+  },
+  "bm36": {
+   "stalni": [
+    {
+     "role": "predsednik",
+     "name": "Dejan Jakovljević",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    },
+    {
+     "role": "zamenik predsednika",
+     "name": "Ljubinko Ilić",
+     "by": "Poslanička grupa Stranka slobode i pravde",
+     "key": "SSP"
+    },
+    {
+     "role": "1. član",
+     "name": "Žarko Gajić",
+     "by": "Načelnik Opštinske uprave",
+     "key": "ADMIN"
+    },
+    {
+     "role": "zamenik 1. člana",
+     "name": "Dejan Vukašinović",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    },
+    {
+     "role": "2. član",
+     "name": "Milivoje Ilić",
+     "by": "Načelnik Opštinske uprave",
+     "key": "ADMIN"
+    },
+    {
+     "role": "zamenik 2. člana",
+     "name": "Rosanda Jović",
+     "by": "Poslanička grupa Poslanici uz studente: za kontrolu izbora",
+     "key": "STUD"
+    }
+   ],
+   "prosireni": [
+    {
+     "no": 1,
+     "member": "Dragan Jakovljević",
+     "deputy": "Nestor Nestorović",
+     "list": "Aleksandar Vučić – Ujedinjena Srbija",
+     "key": "SNS"
+    },
+    {
+     "no": 2,
+     "member": "Milenko Simonović",
+     "deputy": "Ljubisav Todosijević",
+     "list": "Ivica Dačić – Faktor stabilnosti!",
+     "key": "SPS"
+    },
+    {
+     "no": 3,
+     "member": "Vera Dimitrijević",
+     "deputy": "Ilija Vučković",
+     "list": "Studentska lista – Studenti pobeđuju",
+     "key": "STUD"
+    },
+    {
+     "no": 4,
+     "member": "Stefan Ilić",
+     "deputy": "Stefan Nedeljković",
+     "list": "Rasim Ljajić – Ljudski (SDP – CDP)",
+     "key": "LJAJIC"
+    },
+    {
+     "no": 5,
+     "member": "Miloš Bradić",
+     "deputy": "Dragoljub Gašić",
+     "list": "Savez vojvođanskih Mađara – dr Balint Pastor",
+     "key": "SVM"
+    },
+    {
+     "no": 6,
+     "member": "Momir Minić",
+     "deputy": "Vukoman Jakovljević",
+     "list": "Ruska stranka – Srbija u BRIKSU – Slobodan Nikolić",
+     "key": "RUSKA"
+    },
+    {
+     "no": 8,
+     "member": "Branislav Vukašinović",
+     "deputy": null,
+     "list": "Evropska Srbija – Marinika Tepić – Zdravko Ponoš",
+     "key": "EVROSRB"
+    },
+    {
+     "no": 10,
+     "member": "Goran Kokanović",
+     "deputy": "Dragojlo Nedeljković",
+     "list": "Liberalno zelena stranka – za slobodnu i čistiju Srbiju",
+     "key": "LZS"
+    },
+    {
+     "no": 11,
+     "member": "Dragan Nedeljković",
+     "deputy": null,
+     "list": "Ćale ovo je za tebe – Petar Đurić – premijer Srbije",
+     "key": "DJURIC"
+    }
+   ]
+  },
+  "bm37": {
+   "stalni": [
+    {
+     "role": "predsednik",
+     "name": "Miodrag Jokanović",
+     "by": "Poslanička grupa Zeleno-levi front – Ne davimo Beograd",
+     "key": "ZLF"
+    },
+    {
+     "role": "zamenik predsednika",
+     "name": "Radomir Tošić",
+     "by": "Poslanička grupa Socijaldemokratska partija Srbije",
+     "key": "SDPS"
+    },
+    {
+     "role": "1. član",
+     "name": "Svetlana Simić",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    },
+    {
+     "role": "zamenik 1. člana",
+     "name": "Radojka Milićević",
+     "by": "Poslanička grupa Novi DSS i Monarhisti – NADA",
+     "key": "NADA"
+    },
+    {
+     "role": "2. član",
+     "name": "Radosava Čelić",
+     "by": "Načelnik Opštinske uprave",
+     "key": "ADMIN"
+    },
+    {
+     "role": "zamenik 2. člana",
+     "name": "Milan Mihajlović",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    }
+   ],
+   "prosireni": [
+    {
+     "no": 1,
+     "member": "Ilija Stevčić",
+     "deputy": "Zoran Jovanović",
+     "list": "Aleksandar Vučić – Ujedinjena Srbija",
+     "key": "SNS"
+    },
+    {
+     "no": 2,
+     "member": "Stević Miroslav",
+     "deputy": "Dragiša Dačković",
+     "list": "Ivica Dačić – Faktor stabilnosti!",
+     "key": "SPS"
+    },
+    {
+     "no": 3,
+     "member": "Stefan Đurović",
+     "deputy": "Jelena Paunović",
+     "list": "Studentska lista – Studenti pobeđuju",
+     "key": "STUD"
+    },
+    {
+     "no": 4,
+     "member": "Saša Ivančević",
+     "deputy": "Slaviša Milosavljević",
+     "list": "Rasim Ljajić – Ljudski (SDP – CDP)",
+     "key": "LJAJIC"
+    },
+    {
+     "no": 5,
+     "member": "Milutin Milutinović",
+     "deputy": "Zoran Obradović",
+     "list": "Savez vojvođanskih Mađara – dr Balint Pastor",
+     "key": "SVM"
+    },
+    {
+     "no": 6,
+     "member": "Miloš Rakić",
+     "deputy": "Srđan Čarapić",
+     "list": "Ruska stranka – Srbija u BRIKSU – Slobodan Nikolić",
+     "key": "RUSKA"
+    },
+    {
+     "no": 8,
+     "member": "Radovan Jović",
+     "deputy": null,
+     "list": "Evropska Srbija – Marinika Tepić – Zdravko Ponoš",
+     "key": "EVROSRB"
+    },
+    {
+     "no": 10,
+     "member": "Goran Simić",
+     "deputy": "Svetlana Dramićanin",
+     "list": "Liberalno zelena stranka – za slobodnu i čistiju Srbiju",
+     "key": "LZS"
+    },
+    {
+     "no": 11,
+     "member": "Dragan Milutinović",
+     "deputy": "Jovica Nedeljković",
+     "list": "Ćale ovo je za tebe – Petar Đurić – premijer Srbije",
+     "key": "DJURIC"
+    },
+    {
+     "no": 12,
+     "member": "Milibor Vujić",
+     "deputy": "Danijela Simić",
+     "list": "Vladimir Gajić – Alternativa za Srbiju",
+     "key": "GAJIC"
+    }
+   ]
+  },
+  "bm38": {
+   "stalni": [
+    {
+     "role": "predsednik",
+     "name": "Đorđe Minić",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    },
+    {
+     "role": "zamenik predsednika",
+     "name": "Slađana Milenković",
+     "by": "Poslanička grupa Narodni pokret Srbije – Novo lice Srbije",
+     "key": "NPS"
+    },
+    {
+     "role": "1. član",
+     "name": "Milijana Bojović",
+     "by": "Poslanička grupa Novi DSS i Monarhisti – NADA",
+     "key": "NADA"
+    },
+    {
+     "role": "zamenik 1. člana",
+     "name": "Jelena Mihajlović",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    },
+    {
+     "role": "2. član",
+     "name": "Marina Todorović",
+     "by": "Načelnik Opštinske uprave",
+     "key": "ADMIN"
+    },
+    {
+     "role": "zamenik 2. člana",
+     "name": "Elena Miljković",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    }
+   ],
+   "prosireni": [
+    {
+     "no": 1,
+     "member": "Snežana Mihajlović",
+     "deputy": "Saša Tomić",
+     "list": "Aleksandar Vučić – Ujedinjena Srbija",
+     "key": "SNS"
+    },
+    {
+     "no": 2,
+     "member": "Ivan Janković",
+     "deputy": "Ljubinka Janković",
+     "list": "Ivica Dačić – Faktor stabilnosti!",
+     "key": "SPS"
+    },
+    {
+     "no": 3,
+     "member": "Oliver Vidić",
+     "deputy": "Dejan Ilić",
+     "list": "Studentska lista – Studenti pobeđuju",
+     "key": "STUD"
+    },
+    {
+     "no": 4,
+     "member": "Natalija Biočanin",
+     "deputy": "Aleksa Milićević",
+     "list": "Rasim Ljajić – Ljudski (SDP – CDP)",
+     "key": "LJAJIC"
+    },
+    {
+     "no": 5,
+     "member": "Dragiša Mihajlović",
+     "deputy": "Goran Grčak",
+     "list": "Savez vojvođanskih Mađara – dr Balint Pastor",
+     "key": "SVM"
+    },
+    {
+     "no": 6,
+     "member": "Slobodan Vasić",
+     "deputy": "Slavica Jakovljević",
+     "list": "Ruska stranka – Srbija u BRIKSU – Slobodan Nikolić",
+     "key": "RUSKA"
+    },
+    {
+     "no": 8,
+     "member": "Radivoje Ivanović",
+     "deputy": "Boban Popović",
+     "list": "Evropska Srbija – Marinika Tepić – Zdravko Ponoš",
+     "key": "EVROSRB"
+    },
+    {
+     "no": 10,
+     "member": "Zoran Minić",
+     "deputy": "Jovica Bogdanović",
+     "list": "Liberalno zelena stranka – za slobodnu i čistiju Srbiju",
+     "key": "LZS"
+    },
+    {
+     "no": 11,
+     "member": "Marija Savić",
+     "deputy": "Jadranka Veselinović",
+     "list": "Ćale ovo je za tebe – Petar Đurić – premijer Srbije",
+     "key": "DJURIC"
+    },
+    {
+     "no": 12,
+     "member": "Jugoslav Božović",
+     "deputy": "Aleksandra Mladenović",
+     "list": "Vladimir Gajić – Alternativa za Srbiju",
+     "key": "GAJIC"
+    }
+   ]
+  },
+  "bm39": {
+   "stalni": [
+    {
+     "role": "predsednik",
+     "name": "Zoran Milenković",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    },
+    {
+     "role": "zamenik predsednika",
+     "name": "Milen Velimirović",
+     "by": "Načelnik Opštinske uprave",
+     "key": "ADMIN"
+    },
+    {
+     "role": "1. član",
+     "name": "Ivica Tošić",
+     "by": "Poslanička grupa Dragan Marković Palma – Jedinstvena Srbija",
+     "key": "JS"
+    },
+    {
+     "role": "zamenik 1. člana",
+     "name": "Nada Radisavljević",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    },
+    {
+     "role": "2. član",
+     "name": "Zoran Radovanović",
+     "by": "Poslanička grupa Stranka slobode i pravde",
+     "key": "SSP"
+    },
+    {
+     "role": "zamenik 2. člana",
+     "name": "Andrijana Milenković",
+     "by": "Poslanička grupa Savez vojvođanskih Mađara",
+     "key": "SVM"
+    }
+   ],
+   "prosireni": [
+    {
+     "no": 1,
+     "member": "Milijana Nešić",
+     "deputy": "Vučina Radisavljević",
+     "list": "Aleksandar Vučić – Ujedinjena Srbija",
+     "key": "SNS"
+    },
+    {
+     "no": 2,
+     "member": "Goran Jovanović",
+     "deputy": "Pavle Dačković",
+     "list": "Ivica Dačić – Faktor stabilnosti!",
+     "key": "SPS"
+    },
+    {
+     "no": 3,
+     "member": "Petar Radović",
+     "deputy": "Dragana Ikić Marinković",
+     "list": "Studentska lista – Studenti pobeđuju",
+     "key": "STUD"
+    },
+    {
+     "no": 4,
+     "member": "Ranka Radisavljević",
+     "deputy": "Miroslav Stević",
+     "list": "Rasim Ljajić – Ljudski (SDP – CDP)",
+     "key": "LJAJIC"
+    },
+    {
+     "no": 5,
+     "member": "Julijana Rakić",
+     "deputy": "Matija Kovačević",
+     "list": "Savez vojvođanskih Mađara – dr Balint Pastor",
+     "key": "SVM"
+    },
+    {
+     "no": 6,
+     "member": "Andrija Milivojević",
+     "deputy": "Nataša Zdravković",
+     "list": "Ruska stranka – Srbija u BRIKSU – Slobodan Nikolić",
+     "key": "RUSKA"
+    },
+    {
+     "no": 8,
+     "member": "Milivoje Radisavljević",
+     "deputy": null,
+     "list": "Evropska Srbija – Marinika Tepić – Zdravko Ponoš",
+     "key": "EVROSRB"
+    },
+    {
+     "no": 10,
+     "member": "Srećko Rakić",
+     "deputy": "Vučko Savić",
+     "list": "Liberalno zelena stranka – za slobodnu i čistiju Srbiju",
+     "key": "LZS"
+    },
+    {
+     "no": 11,
+     "member": "Jelisaveta Stević",
+     "deputy": null,
+     "list": "Ćale ovo je za tebe – Petar Đurić – premijer Srbije",
+     "key": "DJURIC"
+    },
+    {
+     "no": 12,
+     "member": "Jelena Jablanović",
+     "deputy": null,
+     "list": "Vladimir Gajić – Alternativa za Srbiju",
+     "key": "GAJIC"
+    }
+   ]
+  },
+  "bm40": {
+   "stalni": [
+    {
+     "role": "predsednik",
+     "name": "Goran Miletić",
+     "by": "Poslanička grupa Novi DSS i Monarhisti – NADA",
+     "key": "NADA"
+    },
+    {
+     "role": "zamenik predsednika",
+     "name": "Milena Novović",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    },
+    {
+     "role": "1. član",
+     "name": "Zoran Milosavljević",
+     "by": "Poslanička grupa Zeleno-levi front – Ne davimo Beograd",
+     "key": "ZLF"
+    },
+    {
+     "role": "zamenik 1. člana",
+     "name": "Slobodan Rajković",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    },
+    {
+     "role": "2. član",
+     "name": "Milunka Jovanović",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    },
+    {
+     "role": "zamenik 2. člana",
+     "name": "Petrović Radoš",
+     "by": "Poslanička grupa Ekološki ustanak",
+     "key": "EU"
+    }
+   ],
+   "prosireni": [
+    {
+     "no": 1,
+     "member": "Milena Nestorović",
+     "deputy": "Violeta Sekulić",
+     "list": "Aleksandar Vučić – Ujedinjena Srbija",
+     "key": "SNS"
+    },
+    {
+     "no": 2,
+     "member": "Miroljub Zbiljić",
+     "deputy": "Tomica Petrović",
+     "list": "Ivica Dačić – Faktor stabilnosti!",
+     "key": "SPS"
+    },
+    {
+     "no": 3,
+     "member": "Nebojša Milosavljević",
+     "deputy": "Vesna Džodić",
+     "list": "Studentska lista – Studenti pobeđuju",
+     "key": "STUD"
+    },
+    {
+     "no": 4,
+     "member": "Vuk Radosavljević",
+     "deputy": "Verica Maksimović",
+     "list": "Rasim Ljajić – Ljudski (SDP – CDP)",
+     "key": "LJAJIC"
+    },
+    {
+     "no": 5,
+     "member": "Milena Maljević",
+     "deputy": "Milan Slavković",
+     "list": "Savez vojvođanskih Mađara – dr Balint Pastor",
+     "key": "SVM"
+    },
+    {
+     "no": 6,
+     "member": "Jasmina Nestorović",
+     "deputy": "Ljiljana Rajković",
+     "list": "Ruska stranka – Srbija u BRIKSU – Slobodan Nikolić",
+     "key": "RUSKA"
+    },
+    {
+     "no": 7,
+     "member": "Dragoslav Filipović",
+     "deputy": null,
+     "list": "Autentična desnica – dr Miloš Jovanović",
+     "key": "AUTDES"
+    },
+    {
+     "no": 8,
+     "member": "Milan Đorović",
+     "deputy": "Radenko Kaličanin",
+     "list": "Evropska Srbija – Marinika Tepić – Zdravko Ponoš",
+     "key": "EVROSRB"
+    },
+    {
+     "no": 10,
+     "member": "Goran Vukotić",
+     "deputy": "Gradimir Ilić",
+     "list": "Liberalno zelena stranka – za slobodnu i čistiju Srbiju",
+     "key": "LZS"
+    },
+    {
+     "no": 11,
+     "member": "Ivana Vuksanović",
+     "deputy": "Mirjana Ilić",
+     "list": "Ćale ovo je za tebe – Petar Đurić – premijer Srbije",
+     "key": "DJURIC"
+    },
+    {
+     "no": 12,
+     "member": "Srbijanka Milivojević",
+     "deputy": "Karolina Ristić",
+     "list": "Vladimir Gajić – Alternativa za Srbiju",
+     "key": "GAJIC"
+    }
+   ]
+  },
+  "bm41": {
+   "stalni": [
+    {
+     "role": "predsednik",
+     "name": "Jelena Pumpalović",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    },
+    {
+     "role": "zamenik predsednika",
+     "name": "Svetomir Ristić",
+     "by": "Poslanička grupa Narodni pokret Srbije – Novo lice Srbije",
+     "key": "NPS"
+    },
+    {
+     "role": "1. član",
+     "name": "Nada Kaličanin",
+     "by": "Poslanička grupa SRBIJA CENTAR – SRCE",
+     "key": "SRCE"
+    },
+    {
+     "role": "zamenik 1. člana",
+     "name": "Ivan Pumpalović",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    },
+    {
+     "role": "2. član",
+     "name": "Bojan Lučić",
+     "by": "Poslanička grupa Poslanici uz studente: za kontrolu izbora",
+     "key": "STUD"
+    },
+    {
+     "role": "zamenik 2. člana",
+     "name": "Radomir Novović",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    }
+   ],
+   "prosireni": [
+    {
+     "no": 1,
+     "member": "Radosav Nestorović",
+     "deputy": "Dragić Đorović",
+     "list": "Aleksandar Vučić – Ujedinjena Srbija",
+     "key": "SNS"
+    },
+    {
+     "no": 2,
+     "member": "Jovan Petrović",
+     "deputy": "Jelena Gvozdenović",
+     "list": "Ivica Dačić – Faktor stabilnosti!",
+     "key": "SPS"
+    },
+    {
+     "no": 3,
+     "member": "Olivera Petrović",
+     "deputy": "Stefan Deljanin",
+     "list": "Studentska lista – Studenti pobeđuju",
+     "key": "STUD"
+    },
+    {
+     "no": 4,
+     "member": "Milosava Ristović",
+     "deputy": "Aleksandar Jović",
+     "list": "Rasim Ljajić – Ljudski (SDP – CDP)",
+     "key": "LJAJIC"
+    },
+    {
+     "no": 5,
+     "member": "Mladen Ristić",
+     "deputy": "Dragana Vuković",
+     "list": "Savez vojvođanskih Mađara – dr Balint Pastor",
+     "key": "SVM"
+    },
+    {
+     "no": 6,
+     "member": "Dragiša Stevanović",
+     "deputy": "Milisav Ristić",
+     "list": "Ruska stranka – Srbija u BRIKSU – Slobodan Nikolić",
+     "key": "RUSKA"
+    },
+    {
+     "no": 7,
+     "member": "Ljiljana Miletić",
+     "deputy": "Momirka Đorđević",
+     "list": "Autentična desnica – dr Miloš Jovanović",
+     "key": "AUTDES"
+    },
+    {
+     "no": 8,
+     "member": "Nebojša Arsenijević",
+     "deputy": null,
+     "list": "Evropska Srbija – Marinika Tepić – Zdravko Ponoš",
+     "key": "EVROSRB"
+    },
+    {
+     "no": 10,
+     "member": "Milijana Bojović",
+     "deputy": "Radoljub Minić",
+     "list": "Liberalno zelena stranka – za slobodnu i čistiju Srbiju",
+     "key": "LZS"
+    },
+    {
+     "no": 11,
+     "member": "Radivoje Perovanović",
+     "deputy": "Rada Zuvić",
+     "list": "Ćale ovo je za tebe – Petar Đurić – premijer Srbije",
+     "key": "DJURIC"
+    }
+   ]
+  },
+  "bm42": {
+   "stalni": [
+    {
+     "role": "predsednik",
+     "name": "Aleksa Antić",
+     "by": "Načelnik Opštinske uprave",
+     "key": "ADMIN"
+    },
+    {
+     "role": "zamenik predsednika",
+     "name": "Dragoslav Ivanović",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    },
+    {
+     "role": "1. član",
+     "name": "Miroljub Mijajlović",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    },
+    {
+     "role": "zamenik 1. člana",
+     "name": "Tijana Marković",
+     "by": "Načelnik Opštinske uprave",
+     "key": "ADMIN"
+    },
+    {
+     "role": "2. član",
+     "name": "Petrović Slađana",
+     "by": "Poslanička grupa Ekološki ustanak",
+     "key": "EU"
+    },
+    {
+     "role": "zamenik 2. člana",
+     "name": "Dijana Vesić",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    }
+   ],
+   "prosireni": [
+    {
+     "no": 1,
+     "member": "Milan Mihajlović",
+     "deputy": "Ljubinko Vidosavljević",
+     "list": "Aleksandar Vučić – Ujedinjena Srbija",
+     "key": "SNS"
+    },
+    {
+     "no": 2,
+     "member": "Bratimir Marković",
+     "deputy": "Nenad Mihajlović",
+     "list": "Ivica Dačić – Faktor stabilnosti!",
+     "key": "SPS"
+    },
+    {
+     "no": 3,
+     "member": "Avramović Života",
+     "deputy": "Rodoljub Lazarević",
+     "list": "Studentska lista – Studenti pobeđuju",
+     "key": "STUD"
+    },
+    {
+     "no": 4,
+     "member": "Miloje Radoičić",
+     "deputy": "Zoran Jovanović",
+     "list": "Rasim Ljajić – Ljudski (SDP – CDP)",
+     "key": "LJAJIC"
+    },
+    {
+     "no": 5,
+     "member": "Velimir Marković",
+     "deputy": "Saša Janković",
+     "list": "Savez vojvođanskih Mađara – dr Balint Pastor",
+     "key": "SVM"
+    },
+    {
+     "no": 6,
+     "member": "Dragoljub Mijajlović",
+     "deputy": "Tomislav Zajić",
+     "list": "Ruska stranka – Srbija u BRIKSU – Slobodan Nikolić",
+     "key": "RUSKA"
+    },
+    {
+     "no": 8,
+     "member": "Tomislav Mijajlović",
+     "deputy": "Ratomir Milutinović",
+     "list": "Evropska Srbija – Marinika Tepić – Zdravko Ponoš",
+     "key": "EVROSRB"
+    },
+    {
+     "no": 10,
+     "member": "Slaviša Petrović",
+     "deputy": "Mirko Filipović",
+     "list": "Liberalno zelena stranka – za slobodnu i čistiju Srbiju",
+     "key": "LZS"
+    },
+    {
+     "no": 11,
+     "member": "Ljiljana Mihajlović",
+     "deputy": "Dragoje Vesić",
+     "list": "Ćale ovo je za tebe – Petar Đurić – premijer Srbije",
+     "key": "DJURIC"
+    }
+   ]
+  },
+  "bm43": {
+   "stalni": [
+    {
+     "role": "predsednik",
+     "name": "Smiljković Gordana",
+     "by": "Poslanička grupa Ekološki ustanak",
+     "key": "EU"
+    },
+    {
+     "role": "zamenik predsednika",
+     "name": "Jasmina Stanković",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    },
+    {
+     "role": "1. član",
+     "name": "Dragana Cvetković",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    },
+    {
+     "role": "zamenik 1. člana",
+     "name": "Filip Kostić",
+     "by": "Poslanička grupa Narodni pokret Srbije – Novo lice Srbije",
+     "key": "NPS"
+    },
+    {
+     "role": "2. član",
+     "name": "Ljubiša Milenković",
+     "by": "Poslanička grupa PUPS – solidarnost i pravda",
+     "key": "PUPS"
+    },
+    {
+     "role": "zamenik 2. člana",
+     "name": "Jelena Radovanović",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    }
+   ],
+   "prosireni": [
+    {
+     "no": 1,
+     "member": "Violeta Krcić",
+     "deputy": "Danijela Ognjanović",
+     "list": "Aleksandar Vučić – Ujedinjena Srbija",
+     "key": "SNS"
+    },
+    {
+     "no": 2,
+     "member": "Miloje Vasić",
+     "deputy": "Radeta Popović",
+     "list": "Ivica Dačić – Faktor stabilnosti!",
+     "key": "SPS"
+    },
+    {
+     "no": 3,
+     "member": "Nina Mihajlović",
+     "deputy": "Mirjana Jovanović",
+     "list": "Studentska lista – Studenti pobeđuju",
+     "key": "STUD"
+    },
+    {
+     "no": 4,
+     "member": "Dalibor Stepanović",
+     "deputy": "Boban Radovanović",
+     "list": "Rasim Ljajić – Ljudski (SDP – CDP)",
+     "key": "LJAJIC"
+    },
+    {
+     "no": 5,
+     "member": "Violeta Stanković",
+     "deputy": "Ružica Vasić",
+     "list": "Savez vojvođanskih Mađara – dr Balint Pastor",
+     "key": "SVM"
+    },
+    {
+     "no": 6,
+     "member": "Dragoljub Savić",
+     "deputy": "Zvezdan Ognjanović",
+     "list": "Ruska stranka – Srbija u BRIKSU – Slobodan Nikolić",
+     "key": "RUSKA"
+    },
+    {
+     "no": 8,
+     "member": "Žarko Petrović",
+     "deputy": "Milunka Vasić",
+     "list": "Evropska Srbija – Marinika Tepić – Zdravko Ponoš",
+     "key": "EVROSRB"
+    },
+    {
+     "no": 10,
+     "member": "Dragan Radovanović",
+     "deputy": "Stefan Radovanović",
+     "list": "Liberalno zelena stranka – za slobodnu i čistiju Srbiju",
+     "key": "LZS"
+    },
+    {
+     "no": 11,
+     "member": "Bojan Stanković",
+     "deputy": "Neško Stanković",
+     "list": "Ćale ovo je za tebe – Petar Đurić – premijer Srbije",
+     "key": "DJURIC"
+    }
+   ]
+  },
+  "bm44": {
+   "stalni": [
+    {
+     "role": "predsednik",
+     "name": "Saša Marković",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    },
+    {
+     "role": "zamenik predsednika",
+     "name": "Zoran Veselinović",
+     "by": "Poslanička grupa IVICA DAČIĆ – Socijalistička partija Srbije (SPS)",
+     "key": "SPS"
+    },
+    {
+     "role": "1. član",
+     "name": "Violeta Lučić",
+     "by": "Poslanička grupa Poslanici uz studente: za kontrolu izbora",
+     "key": "STUD"
+    },
+    {
+     "role": "zamenik 1. člana",
+     "name": "Milomir Matić",
+     "by": "Poslanička grupa SRBIJA CENTAR – SRCE",
+     "key": "SRCE"
+    },
+    {
+     "role": "2. član",
+     "name": "Vasilije Veselinović",
+     "by": "Poslanička grupa Zeleno-levi front – Ne davimo Beograd",
+     "key": "ZLF"
+    },
+    {
+     "role": "zamenik 2. člana",
+     "name": "Jasmina Nedeljković",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    }
+   ],
+   "prosireni": [
+    {
+     "no": 1,
+     "member": "Jovan Petković",
+     "deputy": "Nebojša Nedeljković",
+     "list": "Aleksandar Vučić – Ujedinjena Srbija",
+     "key": "SNS"
+    },
+    {
+     "no": 2,
+     "member": "Miloš Avramović",
+     "deputy": "Duško Jakovljević",
+     "list": "Ivica Dačić – Faktor stabilnosti!",
+     "key": "SPS"
+    },
+    {
+     "no": 3,
+     "member": "Biljana Banović",
+     "deputy": "Milan Lazić",
+     "list": "Studentska lista – Studenti pobeđuju",
+     "key": "STUD"
+    },
+    {
+     "no": 4,
+     "member": "Radomir Rajović",
+     "deputy": "Dejan Rackov",
+     "list": "Rasim Ljajić – Ljudski (SDP – CDP)",
+     "key": "LJAJIC"
+    },
+    {
+     "no": 5,
+     "member": "Jelena Nedeljković",
+     "deputy": "Dejan Savić",
+     "list": "Savez vojvođanskih Mađara – dr Balint Pastor",
+     "key": "SVM"
+    },
+    {
+     "no": 6,
+     "member": "Nikola Nedeljković",
+     "deputy": "Vukoman Jovanović",
+     "list": "Ruska stranka – Srbija u BRIKSU – Slobodan Nikolić",
+     "key": "RUSKA"
+    },
+    {
+     "no": 7,
+     "member": "Nebojša Ivić",
+     "deputy": "Radojko Vuksanović",
+     "list": "Autentična desnica – dr Miloš Jovanović",
+     "key": "AUTDES"
+    },
+    {
+     "no": 10,
+     "member": "Dejan Vukašinović",
+     "deputy": "Dejan Milutinović",
+     "list": "Liberalno zelena stranka – za slobodnu i čistiju Srbiju",
+     "key": "LZS"
+    },
+    {
+     "no": 11,
+     "member": "Miloš Milić",
+     "deputy": "Jovica Savić",
+     "list": "Ćale ovo je za tebe – Petar Đurić – premijer Srbije",
+     "key": "DJURIC"
+    },
+    {
+     "no": 12,
+     "member": "Radovan Tanasković",
+     "deputy": null,
+     "list": "Vladimir Gajić – Alternativa za Srbiju",
+     "key": "GAJIC"
+    }
+   ]
+  },
+  "bm45": {
+   "stalni": [
+    {
+     "role": "predsednik",
+     "name": "Marija Vukosavljević",
+     "by": "Načelnik Opštinske uprave",
+     "key": "ADMIN"
+    },
+    {
+     "role": "zamenik predsednika",
+     "name": "Ivana Ilić",
+     "by": "Načelnik Opštinske uprave",
+     "key": "ADMIN"
+    },
+    {
+     "role": "1. član",
+     "name": "Svetozar Perović",
+     "by": "Poslanička grupa PUPS – solidarnost i pravda",
+     "key": "PUPS"
+    },
+    {
+     "role": "zamenik 1. člana",
+     "name": "Nebojša Milenković",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    },
+    {
+     "role": "2. član",
+     "name": "Dragana Milenković",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    },
+    {
+     "role": "zamenik 2. člana",
+     "name": "Radosav Grčić",
+     "by": "Poslanička grupa Socijaldemokratska partija Srbije",
+     "key": "SDPS"
+    }
+   ],
+   "prosireni": [
+    {
+     "no": 1,
+     "member": "Slaviša Simović",
+     "deputy": "Milovan Kuzmanović",
+     "list": "Aleksandar Vučić – Ujedinjena Srbija",
+     "key": "SNS"
+    },
+    {
+     "no": 2,
+     "member": "Marija Jovanović",
+     "deputy": "Aleksandar Jovanović",
+     "list": "Ivica Dačić – Faktor stabilnosti!",
+     "key": "SPS"
+    },
+    {
+     "no": 3,
+     "member": "Miodrag Vesović",
+     "deputy": "Marko Marković",
+     "list": "Studentska lista – Studenti pobeđuju",
+     "key": "STUD"
+    },
+    {
+     "no": 4,
+     "member": "Dragoje Jovanović",
+     "deputy": "Slaviša Jovanović",
+     "list": "Rasim Ljajić – Ljudski (SDP – CDP)",
+     "key": "LJAJIC"
+    },
+    {
+     "no": 5,
+     "member": "Radovan Ivanović",
+     "deputy": "Slavka Ilić",
+     "list": "Savez vojvođanskih Mađara – dr Balint Pastor",
+     "key": "SVM"
+    },
+    {
+     "no": 6,
+     "member": "Jugoslav Marković",
+     "deputy": "Slobodan Spasojević",
+     "list": "Ruska stranka – Srbija u BRIKSU – Slobodan Nikolić",
+     "key": "RUSKA"
+    },
+    {
+     "no": 8,
+     "member": "Milenko Strugarević",
+     "deputy": "Filip Ivanjac",
+     "list": "Evropska Srbija – Marinika Tepić – Zdravko Ponoš",
+     "key": "EVROSRB"
+    },
+    {
+     "no": 10,
+     "member": "Dejan Radović",
+     "deputy": "Stojanka Jovanović",
+     "list": "Liberalno zelena stranka – za slobodnu i čistiju Srbiju",
+     "key": "LZS"
+    },
+    {
+     "no": 12,
+     "member": null,
+     "deputy": "Draginja Igrutinović",
+     "list": "Vladimir Gajić – Alternativa za Srbiju",
+     "key": "GAJIC"
+    }
+   ]
+  },
+  "bm46": {
+   "stalni": [
+    {
+     "role": "predsednik",
+     "name": "Radosav Mitrović",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    },
+    {
+     "role": "zamenik predsednika",
+     "name": "Dušan Stevanović",
+     "by": "Poslanička grupa Zeleno-levi front – Ne davimo Beograd",
+     "key": "ZLF"
+    },
+    {
+     "role": "1. član",
+     "name": "Milosav Perović",
+     "by": "Poslanička grupa SRBIJA CENTAR – SRCE",
+     "key": "SRCE"
+    },
+    {
+     "role": "zamenik 1. člana",
+     "name": "Svetlana Nikolić",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    },
+    {
+     "role": "2. član",
+     "name": "Dragan Perović",
+     "by": "Poslanička grupa IVICA DAČIĆ – Socijalistička partija Srbije (SPS)",
+     "key": "SPS"
+    },
+    {
+     "role": "zamenik 2. člana",
+     "name": "Branka Perović",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    }
+   ],
+   "prosireni": [
+    {
+     "no": 1,
+     "member": "Dragoslav Radomirović",
+     "deputy": "Goran Sarić",
+     "list": "Aleksandar Vučić – Ujedinjena Srbija",
+     "key": "SNS"
+    },
+    {
+     "no": 2,
+     "member": "Milan Perović",
+     "deputy": "Stanimirka Ivanjac",
+     "list": "Ivica Dačić – Faktor stabilnosti!",
+     "key": "SPS"
+    },
+    {
+     "no": 3,
+     "member": "Dejan Roglić",
+     "deputy": "Tara Miletić",
+     "list": "Studentska lista – Studenti pobeđuju",
+     "key": "STUD"
+    },
+    {
+     "no": 4,
+     "member": "Katka Radosavljević",
+     "deputy": "Miljan Andrijašević",
+     "list": "Rasim Ljajić – Ljudski (SDP – CDP)",
+     "key": "LJAJIC"
+    },
+    {
+     "no": 5,
+     "member": "Milica Nikolić",
+     "deputy": "Novica Đinović",
+     "list": "Savez vojvođanskih Mađara – dr Balint Pastor",
+     "key": "SVM"
+    },
+    {
+     "no": 6,
+     "member": "Obrad Nikolić",
+     "deputy": "Dragan Đorđević",
+     "list": "Ruska stranka – Srbija u BRIKSU – Slobodan Nikolić",
+     "key": "RUSKA"
+    },
+    {
+     "no": 7,
+     "member": "Katica Milošević",
+     "deputy": null,
+     "list": "Autentična desnica – dr Miloš Jovanović",
+     "key": "AUTDES"
+    },
+    {
+     "no": 8,
+     "member": "Marko Strugarević",
+     "deputy": "Milovan Radović",
+     "list": "Evropska Srbija – Marinika Tepić – Zdravko Ponoš",
+     "key": "EVROSRB"
+    },
+    {
+     "no": 10,
+     "member": "Bratimir Milivojević",
+     "deputy": "Milanka Perović",
+     "list": "Liberalno zelena stranka – za slobodnu i čistiju Srbiju",
+     "key": "LZS"
+    },
+    {
+     "no": 11,
+     "member": "Nenad Nikolić",
+     "deputy": "Milanka Vesović",
+     "list": "Ćale ovo je za tebe – Petar Đurić – premijer Srbije",
+     "key": "DJURIC"
+    },
+    {
+     "no": 12,
+     "member": "Ljiljana Pešić",
+     "deputy": "Slađana Cicmil",
+     "list": "Vladimir Gajić – Alternativa za Srbiju",
+     "key": "GAJIC"
+    }
+   ]
+  },
+  "bm47": {
+   "stalni": [
+    {
+     "role": "predsednik",
+     "name": "Sunčica Filipović",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    },
+    {
+     "role": "zamenik predsednika",
+     "name": "Nikola Ilić",
+     "by": "Poslanička grupa Ekološki ustanak",
+     "key": "EU"
+    },
+    {
+     "role": "1. član",
+     "name": "Uroš Nikolić",
+     "by": "Poslanička grupa Pokret slobodnih građana (PSG) – Stranka demokratske akcije",
+     "key": "PSG"
+    },
+    {
+     "role": "zamenik 1. člana",
+     "name": "Zoran Dimitrijević",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    },
+    {
+     "role": "2. član",
+     "name": "Nenad Planić",
+     "by": "Poslanička grupa SRBIJA CENTAR – SRCE",
+     "key": "SRCE"
+    },
+    {
+     "role": "zamenik 2. člana",
+     "name": "Bojan Dragićević",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    }
+   ],
+   "prosireni": [
+    {
+     "no": 1,
+     "member": "Milosav Petković",
+     "deputy": "Branka Đorđević",
+     "list": "Aleksandar Vučić – Ujedinjena Srbija",
+     "key": "SNS"
+    },
+    {
+     "no": 2,
+     "member": "Vesna Jović",
+     "deputy": "Dragana Gašić",
+     "list": "Ivica Dačić – Faktor stabilnosti!",
+     "key": "SPS"
+    },
+    {
+     "no": 3,
+     "member": "Saša Milosavljević",
+     "deputy": "Aleksandra Bošković",
+     "list": "Studentska lista – Studenti pobeđuju",
+     "key": "STUD"
+    },
+    {
+     "no": 4,
+     "member": "Radomir Vučković",
+     "deputy": "Stefan Nikolić",
+     "list": "Rasim Ljajić – Ljudski (SDP – CDP)",
+     "key": "LJAJIC"
+    },
+    {
+     "no": 5,
+     "member": "Boban Dragićević",
+     "deputy": "Marija Petrović",
+     "list": "Savez vojvođanskih Mađara – dr Balint Pastor",
+     "key": "SVM"
+    },
+    {
+     "no": 6,
+     "member": "Jovica Maksimović",
+     "deputy": "Marija Dimitrijević",
+     "list": "Ruska stranka – Srbija u BRIKSU – Slobodan Nikolić",
+     "key": "RUSKA"
+    },
+    {
+     "no": 8,
+     "member": "Stefan Tanasković",
+     "deputy": "Nikola Ristić",
+     "list": "Evropska Srbija – Marinika Tepić – Zdravko Ponoš",
+     "key": "EVROSRB"
+    },
+    {
+     "no": 10,
+     "member": "Nataša Petrović",
+     "deputy": "Ivan Radovanović",
+     "list": "Liberalno zelena stranka – za slobodnu i čistiju Srbiju",
+     "key": "LZS"
+    },
+    {
+     "no": 11,
+     "member": "Slobodan Vasić",
+     "deputy": "Branislav Arsić",
+     "list": "Ćale ovo je za tebe – Petar Đurić – premijer Srbije",
+     "key": "DJURIC"
+    },
+    {
+     "no": 12,
+     "member": "Caja Andrijašević",
+     "deputy": "Katarina Nikolić",
+     "list": "Vladimir Gajić – Alternativa za Srbiju",
+     "key": "GAJIC"
+    }
+   ]
+  },
+  "bm48": {
+   "stalni": [
+    {
+     "role": "predsednik",
+     "name": "Dragan Avramović",
+     "by": "Poslanička grupa IVICA DAČIĆ – Socijalistička partija Srbije (SPS)",
+     "key": "SPS"
+    },
+    {
+     "role": "zamenik predsednika",
+     "name": "Stanica Milenković",
+     "by": "Poslanička grupa Novi DSS i Monarhisti – NADA",
+     "key": "NADA"
+    },
+    {
+     "role": "1. član",
+     "name": "Radovan Obradović",
+     "by": "Poslanička grupa Stranka slobode i pravde",
+     "key": "SSP"
+    },
+    {
+     "role": "zamenik 1. člana",
+     "name": "Dragan Milanović",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    },
+    {
+     "role": "2. član",
+     "name": "Milutin Đorđević",
+     "by": "Poslanička grupa ALEKSANDAR VUČIĆ – Srbija ne sme da stane",
+     "key": "SNS"
+    },
+    {
+     "role": "zamenik 2. člana",
+     "name": "Nebojša Spasić",
+     "by": "Poslanička grupa Narodni pokret Srbije – Novo lice Srbije",
+     "key": "NPS"
+    }
+   ],
+   "prosireni": [
+    {
+     "no": 1,
+     "member": "Danijela Petković",
+     "deputy": "Radivoje Aleksić",
+     "list": "Aleksandar Vučić – Ujedinjena Srbija",
+     "key": "SNS"
+    },
+    {
+     "no": 2,
+     "member": "Dragana Delibašić",
+     "deputy": "Filip Avramović",
+     "list": "Ivica Dačić – Faktor stabilnosti!",
+     "key": "SPS"
+    },
+    {
+     "no": 3,
+     "member": "Bogdan Jevremović",
+     "deputy": "Ljubomir Antonijević",
+     "list": "Studentska lista – Studenti pobeđuju",
+     "key": "STUD"
+    },
+    {
+     "no": 4,
+     "member": "Mirjana Avramović",
+     "deputy": "Rade Aleksić",
+     "list": "Rasim Ljajić – Ljudski (SDP – CDP)",
+     "key": "LJAJIC"
+    },
+    {
+     "no": 5,
+     "member": "Tamara Đurović",
+     "deputy": "Dejan Bojović",
+     "list": "Savez vojvođanskih Mađara – dr Balint Pastor",
+     "key": "SVM"
+    },
+    {
+     "no": 6,
+     "member": "Milorad Avramović",
+     "deputy": "Slaviša Aleksić",
+     "list": "Ruska stranka – Srbija u BRIKSU – Slobodan Nikolić",
+     "key": "RUSKA"
+    },
+    {
+     "no": 8,
+     "member": "Mateja Radisavljević",
+     "deputy": null,
+     "list": "Evropska Srbija – Marinika Tepić – Zdravko Ponoš",
+     "key": "EVROSRB"
+    },
+    {
+     "no": 10,
+     "member": "Gordana Ivić",
+     "deputy": "Stadija Ivić",
+     "list": "Liberalno zelena stranka – za slobodnu i čistiju Srbiju",
+     "key": "LZS"
+    },
+    {
+     "no": 11,
+     "member": "Miloš Dragićević",
+     "deputy": "Uroš Šindić",
+     "list": "Ćale ovo je za tebe – Petar Đurić – premijer Srbije",
+     "key": "DJURIC"
+    },
+    {
+     "no": 12,
+     "member": "Dragan Milićević",
+     "deputy": "Dragan Dragićević",
+     "list": "Vladimir Gajić – Alternativa za Srbiju",
+     "key": "GAJIC"
+    }
+   ]
+  }
+ },
+ "lists26": [
+  [
+   "SNS",
+   "Aleksandar Vučić – Ujedinjena Srbija (SNS)"
+  ],
+  [
+   "SPS",
+   "Ivica Dačić – Faktor stabilnosti (SPS, JS, SDPS, Zeleni)"
+  ],
+  [
+   "STUD",
+   "Studentska lista – Studenti pobeđuju"
+  ],
+  [
+   "LJAJIC",
+   "Rasim Ljajić – Ljudski (SDP – CDP)"
+  ],
+  [
+   "SVM",
+   "Savez vojvođanskih Mađara – dr Balint Pastor"
+  ],
+  [
+   "SPP",
+   "Usame Zukorlić (SPP) Pokret za ujedinjenje"
+  ],
+  [
+   "RUSKA",
+   "Ruska stranka – Srbija u BRIKS-u – Slobodan Nikolić"
+  ],
+  [
+   "AUTDES",
+   "Autentična desnica – dr Miloš Jovanović (Novi DSS, monarhisti...)"
+  ],
+  [
+   "EVROSRB",
+   "Evropska Srbija – Marinika Tepić – Zdravko Ponoš (SSP, Srce...)"
+  ],
+  [
+   "SDA",
+   "SDA Sandžaka – Čuvari Sandžaka"
+  ],
+  [
+   "KARIC",
+   "Bogoljub Karić – Pokret Snaga Srbije – BK"
+  ],
+  [
+   "LZS",
+   "Liberalno zelena stranka"
+  ],
+  [
+   "SNAGA_BULIC",
+   "Biram pravdu – Biram budućnost – Koalicija SNAGA – Ferid Bulić"
+  ],
+  [
+   "RUSI_SRBI",
+   "Stranka rusko-srpskog jedinstva – Rusi i Srbi braća zauvek"
+  ],
+  [
+   "DJURIC",
+   "Ćale ovo je za tebe – Petar Đurić"
+  ],
+  [
+   "GAJIC",
+   "Vladimir Gajić – Alternativa za Srbiju – Narodna stranka, BUNT"
+  ],
+  [
+   "ALB",
+   "Albanska koalicija"
+  ],
+  [
+   "MAJKA",
+   "Majka Srbija – Gruda"
+  ]
+ ],
+ "groups": [
+  [
+   "ADMIN",
+   "Načelnik uprave / ministarstvo (nema predloga poslaničke grupe)"
+  ],
+  [
+   "SNS",
+   "Aleksandar Vučić – Srbija ne sme da stane (SNS)"
+  ],
+  [
+   "SDPS",
+   "Socijaldemokratska partija Srbije"
+  ],
+  [
+   "SPS",
+   "Ivica Dačić – Socijalistička partija Srbije"
+  ],
+  [
+   "STUD",
+   "Poslanici uz studente: za kontrolu izbora"
+  ],
+  [
+   "NPS",
+   "Narodni pokret Srbije – Novo lice Srbije"
+  ],
+  [
+   "SSP",
+   "Stranka slobode i pravde"
+  ],
+  [
+   "PSG",
+   "Pokret slobodnih građana – SDA Sandžaka – PDD"
+  ],
+  [
+   "ZLF",
+   "Zeleno-levi front – Ne davimo Beograd"
+  ],
+  [
+   "SVM",
+   "Savez vojvođanskih Mađara"
+  ],
+  [
+   "NADA",
+   "Novi DSS i monarhisti – NADA"
+  ],
+  [
+   "SRCE",
+   "Srbija centar – SRCE"
+  ],
+  [
+   "EU",
+   "Ekološki ustanak"
+  ],
+  [
+   "JS",
+   "Dragan Marković Palma – Jedinstvena Srbija"
+  ],
+  [
+   "PUPS",
+   "PUPS – Solidarnost i pravda"
+  ],
+  [
+   "ZS",
+   "Zdrava Srbija"
+  ],
+  [
+   "MI",
+   "MI – Glas iz naroda / Snaga naroda"
+  ],
+  [
+   "DS",
+   "Demokratska stranka"
+  ],
+  [
+   "ZAVET",
+   "Srpska stranka Zavetnici"
+  ],
+  [
+   "RP_RS",
+   "Radnička partija – Ruska stranka – Ujedinjeni"
+  ]
+ ],
+ "napomena": "Osnovni sastav po rešenjima OIK Kuršumlija od 14.10.2026. Izmene idu u public/data/odbori_izmene.json."
+}
